@@ -1,3 +1,5 @@
-latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
--2.58382,121.3726,313.3,1.69,1.28,2026-05-12,0026,Terra,69,6.1NRT,289.88,16.9
--2.58528,121.38101,313.56,1.69,1.28,2026-05-12,0026,Terra,70,6.1NRT,289.8,18.11
+latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
+-1.24772,122.5943,325.08,0.42,0.61,2026-05-12,0440,"",nominal,2.0NRT,280.87,3.84
+-0.99412,123.36165,327.76,0.37,0.58,2026-05-12,0440,"",nominal,2.0NRT,288.74,2.1
+0.81383,123.61549,328.56,0.33,0.55,2026-05-12,0440,"",nominal,2.0NRT,280.32,2.83
+0.67702,122.4555,329.35,0.4,0.6,2026-05-12,0440,"",nominal,2.0NRT,286.76,2.48
