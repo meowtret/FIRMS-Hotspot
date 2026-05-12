@@ -1,8 +1,21 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.38086,122.47968,Sedang,,2026-05-12,Sulawesi Tengah,Banggai,,,,APL
--2.82791,122.17551,Sedang,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
--2.83124,122.17498,Sedang,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
--2.83457,122.17444,Sedang,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
--2.85012,122.16871,Sedang,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
--2.87793,122.17161,Sedang,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
--2.87738,122.16808,Sedang,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+0.66337,122.6412,Sedang,Suomi NPP,2026-05-12,Gorontalo,Gorontalo,,,,APL
+0.66337,122.6412,Sedang,Suomi NPP,2026-05-12,Gorontalo,Gorontalo,,,,APL
+0.59365,122.81508,Sedang,Suomi NPP,2026-05-12,Gorontalo,Gorontalo,,,,APL
+0.59365,122.81508,Sedang,Suomi NPP,2026-05-12,Gorontalo,Gorontalo,,,,APL
+-1.38258,122.4814,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Banggai,,,,APL
+-2.82755,122.17342,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.82814,122.17702,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.83163,122.1729,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.83043,122.16565,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.83103,122.1693,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.83571,122.17244,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.838,122.161,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.85138,122.16636,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.86296,122.16076,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.86591,122.15327,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.87572,122.16247,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.8746,122.15549,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.87979,122.16186,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.87866,122.15488,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.87923,122.15837,Sedang,Suomi NPP,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
