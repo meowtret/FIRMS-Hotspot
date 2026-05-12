@@ -1,6 +1,59 @@
 {
-  "timestamp": "2026-05-12T07:27:21.159094+00:00",
+  "timestamp": "2026-05-12T07:38:05.972387+00:00",
   "tanggal_pengamatan": "2026-05-12",
-  "total_hotspot": 0,
-  "hotspots": []
+  "total_hotspot": 4,
+  "hotspots": [
+    {
+      "latitude": 0.67702,
+      "longitude": 122.4555,
+      "Confidence": "nominal",
+      "Sumber_Satelit": null,
+      "Tanggal": "2026-05-12",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Boalemo",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.24772,
+      "longitude": 122.5943,
+      "Confidence": "nominal",
+      "Sumber_Satelit": null,
+      "Tanggal": "2026-05-12",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -0.99412,
+      "longitude": 123.36165,
+      "Confidence": "nominal",
+      "Sumber_Satelit": null,
+      "Tanggal": "2026-05-12",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.81383,
+      "longitude": 123.61549,
+      "Confidence": "nominal",
+      "Sumber_Satelit": null,
+      "Tanggal": "2026-05-12",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Bolaang Mongondow Utara",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }
