@@ -1,5 +1,8 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.67702,122.4555,nominal,,2026-05-12,Gorontalo,Boalemo,,,,APL
--1.24772,122.5943,nominal,,2026-05-12,Sulawesi Tengah,Banggai,,,,APL
--0.99412,123.36165,nominal,,2026-05-12,Sulawesi Tengah,Banggai,,,,APL
-0.81383,123.61549,nominal,,2026-05-12,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+0.54615,121.87965,nominal,,2026-05-12,Gorontalo,Pohuwato,,,,APL
+-1.37747,123.05134,nominal,,2026-05-12,Sulawesi Tengah,Banggai Kepulauan,,KPH Pulau Peling,Sulawesi Tengah,HPT
+-0.04628,119.90207,nominal,,2026-05-12,Sulawesi Tengah,Donggala,,,,APL
+-2.00922,121.43201,low,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.01087,121.4212,nominal,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.01142,121.41763,nominal,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
+-2.00805,121.41709,nominal,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
