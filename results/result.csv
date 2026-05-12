@@ -1,5 +1,6 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
 0.54615,121.87965,Sedang,,2026-05-12,Gorontalo,Pohuwato,,,,APL
+0.54615,121.87965,Sedang,,2026-05-12,Gorontalo,Pohuwato,,,,APL
 -1.37747,123.05134,Sedang,,2026-05-12,Sulawesi Tengah,Banggai Kepulauan,,KPH Pulau Peling,Sulawesi Tengah,HPT
 -0.04628,119.90207,Sedang,,2026-05-12,Sulawesi Tengah,Donggala,,,,APL
 -2.00922,121.43201,Rendah,,2026-05-12,Sulawesi Tengah,Morowali,,,,APL
