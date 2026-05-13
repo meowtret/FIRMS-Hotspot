@@ -1,5 +1,4 @@
 name: Overlay Hotspot
-
 on:
   push:
     paths:
@@ -11,18 +10,14 @@ on:
   repository_dispatch:
     types:
       - firms_hotspot_uploaded
-
 permissions:
   contents: write
-
 concurrency:
   group: overlay-hotspot-main
   cancel-in-progress: false
-
 jobs:
   overlay:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -44,7 +39,6 @@ jobs:
           SUPABASE_TABLE: ${{ secrets.SUPABASE_TABLE }}
           SUPABASE_GEOM_COLUMN: ${{ secrets.SUPABASE_GEOM_COLUMN }}
           SUPABASE_SELECT: ${{ secrets.SUPABASE_SELECT }}
-          N8N_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
           HOTSPOT_CSV: data/hotspot.csv
           WILAYAH_GEOJSON: data/wilayah.geojson
           RESULT_JSON: results/result.json
@@ -53,16 +47,24 @@ jobs:
         run: python scripts/overlay.py
 
       - name: Commit result files
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add results/result.json results/result.csv data/wilayah.geojson
           if git diff --cached --quiet; then
             echo "No result changes to commit."
+            echo "changed=false" >> $GITHUB_OUTPUT
             exit 0
           fi
           git commit -m "Update hotspot overlay result"
-          git fetch origin main
-          git checkout -B main FETCH_HEAD
-          git cherry-pick HEAD@{1}
+          git pull --rebase -X theirs origin main
           git push origin HEAD:main
+          echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Send to n8n
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          curl -X POST "${{ secrets.N8N_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d @results/result.json
