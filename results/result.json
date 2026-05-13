@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-13T19:19:41.710923+00:00",
+  "timestamp": "2026-05-13T19:37:14.238389+00:00",
   "tanggal_pengamatan": "2026-05-14",
-  "total_hotspot": 4,
+  "total_hotspot": 2,
   "hotspots": [
     {
-      "latitude": -1.24714,
-      "longitude": 122.59076,
+      "latitude": -1.24579,
+      "longitude": 122.59259,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-13",
@@ -17,34 +17,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -1.38204,
-      "longitude": 122.48252,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-13",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Banggai",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.27026,
-      "longitude": 121.76532,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-13",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 2.78171,
-      "longitude": 125.40763,
+      "latitude": 2.77632,
+      "longitude": 125.41268,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-13",
