@@ -1,7 +1,6 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
 0.51802,122.26321,Sedang,Suomi NPP,2026-05-13,Gorontalo,Boalemo,,,,APL
-0.50898,122.74269,Sedang,Suomi NPP,2026-05-13,Gorontalo,Gorontalo,,KPH Wil. VI Gorontalo,Gorontalo,HPT
-0.50837,122.73875,Sedang,Suomi NPP,2026-05-13,Gorontalo,Gorontalo,,KPH Wil. VI Gorontalo,Gorontalo,HPT
+0.51802,122.26321,Sedang,Suomi NPP,2026-05-13,Gorontalo,Boalemo,,,,APL
 0.79192,122.42834,Sedang,Suomi NPP,2026-05-13,Gorontalo,Gorontalo,,,,HPK
 0.79192,122.42834,Sedang,Suomi NPP,2026-05-13,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,,,HPK
 -1.51476,122.26731,Sedang,Suomi NPP,2026-05-13,Sulawesi Tengah,Banggai,,,,APL
