@@ -25,9 +25,6 @@ SUPABASE_TABLE = os.getenv("SUPABASE_TABLE") or "kawasan_kph_simple"
 SUPABASE_GEOM_COLUMN = os.getenv("SUPABASE_GEOM_COLUMN") or "geom"
 SUPABASE_SELECT = os.getenv("SUPABASE_SELECT") or "id,pbph,kph,provinsi,fungsi,geom"
 
-N8N_WEBHOOK_URL = os.getenv("N8N_WEBHOOK_URL", "")
-SEND_EMPTY_RESULT = os.getenv("SEND_EMPTY_RESULT", "true").lower() == "true"
-
 WITA = timezone(timedelta(hours=8))
 TANGGAL_PENGAMATAN = datetime.now(WITA).strftime("%Y-%m-%d")
 
@@ -267,29 +264,6 @@ def write_results(payload, df_output):
     print(f"[INFO] Result CSV : {RESULT_CSV}")
 
 
-def send_to_n8n(payload):
-    if not N8N_WEBHOOK_URL:
-        print("[INFO] N8N_WEBHOOK_URL belum diset, skip kirim webhook.")
-        return
-
-    if payload["total_hotspot"] == 0 and not SEND_EMPTY_RESULT:
-        print("[INFO] Tidak ada hotspot, skip kirim webhook kosong.")
-        return
-
-    print(f"[INFO] Mengirim {payload['total_hotspot']} hotspot ke n8n...")
-    response = requests.post(
-        N8N_WEBHOOK_URL,
-        json=payload,
-        timeout=30,
-        headers={"Content-Type": "application/json"},
-    )
-
-    if 200 <= response.status_code < 300:
-        print(f"[SUCCESS] Data terkirim ke n8n (HTTP {response.status_code})")
-    else:
-        raise RuntimeError(f"n8n response {response.status_code}: {response.text}")
-
-
 def main():
     kawasan = load_kawasan()
     print(f"[INFO] Total polygon kawasan: {len(kawasan)}")
@@ -298,10 +272,8 @@ def main():
     print(f"[INFO] Total hotspot awal: {len(hotspot)}")
 
     if hotspot.empty:
-        df_output = pd.DataFrame()
         payload = build_payload([])
-        write_results(payload, df_output)
-        send_to_n8n(payload)
+        write_results(payload, pd.DataFrame())
         return
 
     hotspot_geometry = [Point(xy) for xy in zip(hotspot["longitude"], hotspot["latitude"])]
@@ -313,10 +285,8 @@ def main():
     print(f"[INFO] Hotspot dalam kawasan: {len(join_kawasan)}")
 
     if join_kawasan.empty:
-        df_output = pd.DataFrame()
         payload = build_payload([])
-        write_results(payload, df_output)
-        send_to_n8n(payload)
+        write_results(payload, pd.DataFrame())
         return
 
     kabupaten = load_kabupaten()
@@ -331,19 +301,10 @@ def main():
         join_kabupaten = join_kabupaten.sort_values(by=sort_columns, na_position="last")
 
     output_columns = [
-        "latitude",
-        "longitude",
-        "Confidence",
-        "Sumber_Satelit",
-        "Tanggal",
-        "Provinsi_Final",
-        "Kabupaten_Final",
-        "pbph",
-        "kph",
-        "provinsi",
-        "fungsi",
+        "latitude", "longitude", "Confidence", "Sumber_Satelit", "Tanggal",
+        "Provinsi_Final", "Kabupaten_Final", "pbph", "kph", "provinsi", "fungsi",
     ]
-    output_columns = [column for column in output_columns if column in join_kabupaten.columns]
+    output_columns = [c for c in output_columns if c in join_kabupaten.columns]
 
     df_output = join_kabupaten[output_columns].copy()
     df_output = df_output.astype(object).where(pd.notnull(df_output), None)
@@ -351,7 +312,6 @@ def main():
 
     payload = build_payload(records)
     write_results(payload, df_output)
-    send_to_n8n(payload)
 
 
 if __name__ == "__main__":
