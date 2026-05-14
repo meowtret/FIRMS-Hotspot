@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T08:07:15.549869+00:00",
+  "timestamp": "2026-05-14T08:07:50.006864+00:00",
   "tanggal_pengamatan": "2026-05-14",
   "total_hotspot": 19,
   "hotspots": [
@@ -17,17 +17,17 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 0.7461,
-      "longitude": 122.54619,
+      "latitude": 0.48264,
+      "longitude": 122.01491,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-14",
       "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Gorontalo",
+      "Kabupaten_Final": "Pohuwato",
       "pbph": null,
       "kph": null,
       "provinsi": null,
-      "fungsi": "APL"
+      "fungsi": "HPK"
     },
     {
       "latitude": 0.48264,
