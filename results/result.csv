@@ -1,1 +1,14 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+0.55437,122.47054,Sedang,,2026-05-14,Gorontalo,Boalemo,,,,APL
+-1.3267,122.41589,Sedang,,2026-05-14,Sulawesi Tengah,Banggai,,,,APL
+-0.90833,123.28729,Sedang,,2026-05-14,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
+1.01002,121.47878,Sedang,,2026-05-14,Sulawesi Tengah,Buol,,,,APL
+1.12835,121.38931,Sedang,,2026-05-14,Sulawesi Tengah,Buol,,,,APL
+-2.82873,122.17606,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
+-2.82949,122.17102,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
+-2.0143,121.42034,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
+-2.00935,121.41978,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
+-2.00764,121.41671,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
+-2.06252,120.95977,Tinggi,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
+-1.94451,120.78755,Sedang,,2026-05-14,Sulawesi Tengah,Poso,,,,APL
+-1.93338,120.79175,Sedang,,2026-05-14,Sulawesi Tengah,Poso,,,,APL
