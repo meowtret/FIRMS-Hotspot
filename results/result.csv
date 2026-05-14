@@ -1,20 +1,4 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.7461,122.54619,Sedang,,2026-05-14,Gorontalo,Gorontalo,,,,APL
-0.48264,122.01491,Sedang,,2026-05-14,Gorontalo,Pohuwato,,,,HPK
-0.48264,122.01491,Sedang,,2026-05-14,Gorontalo,Pohuwato,,,,HPK
-0.48167,122.01565,Sedang,,2026-05-14,Gorontalo,Pohuwato,,,,APL
--1.59729,122.13895,Sedang,,2026-05-14,Sulawesi Tengah,Banggai,,,,APL
--1.32829,122.41674,Sedang,,2026-05-14,Sulawesi Tengah,Banggai,,,,APL
--1.01668,123.2841,Sedang,,2026-05-14,Sulawesi Tengah,Banggai,,,,APL
-1.05414,121.49165,Sedang,,2026-05-14,Sulawesi Tengah,Buol,,,,APL
-1.05188,121.4923,Sedang,,2026-05-14,Sulawesi Tengah,Buol,,,,APL
-1.12582,121.39253,Sedang,,2026-05-14,Sulawesi Tengah,Buol,,,,APL
-1.26505,121.45598,Sedang,,2026-05-14,Sulawesi Tengah,Buol,,,,APL
--2.83331,122.17561,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
--2.82919,122.17506,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
--2.3684,121.82202,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
--2.01535,121.42039,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
--2.01141,121.41974,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
--1.68938,121.24683,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,KPH Tepo Asa Aroa,Sulawesi Tengah,HL
--1.68937,121.24914,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,KPH Tepo Asa Aroa,Sulawesi Tengah,HL
--1.67357,121.29969,Sedang,,2026-05-14,Sulawesi Tengah,Morowali,,,,CA
+0.47883,122.01657,Rendah,Aqua,2026-05-14,Gorontalo,Pohuwato,,,,APL
+0.47753,122.00766,Rendah,Aqua,2026-05-14,Gorontalo,Pohuwato,,,,APL
+-2.01188,121.41722,Rendah,Aqua,2026-05-14,Sulawesi Tengah,Morowali,,,,APL
