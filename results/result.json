@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-14T18:58:47.858592+00:00",
+  "timestamp": "2026-05-14T19:11:10.141518+00:00",
   "tanggal_pengamatan": "2026-05-15",
   "total_hotspot": 6,
   "hotspots": [
     {
-      "latitude": -1.37797,
-      "longitude": 122.48058,
+      "latitude": -1.38147,
+      "longitude": 122.47938,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-14",
@@ -17,8 +17,21 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.8479,
-      "longitude": 122.16755,
+      "latitude": -1.38101,
+      "longitude": 122.48209,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": null,
+      "Tanggal": "2026-05-14",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.87494,
+      "longitude": 122.1629,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-14",
@@ -30,8 +43,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.87344,
-      "longitude": 122.16329,
+      "latitude": -2.87804,
+      "longitude": 122.15751,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-14",
@@ -43,8 +56,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.8776,
-      "longitude": 122.15675,
+      "latitude": -2.87875,
+      "longitude": 122.16229,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-14",
@@ -56,21 +69,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.87808,
-      "longitude": 122.15964,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-14",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.87857,
-      "longitude": 122.16254,
+      "latitude": -2.88184,
+      "longitude": 122.1568,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-14",
