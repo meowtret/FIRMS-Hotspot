@@ -1,11 +1,37 @@
 {
-  "timestamp": "2026-05-14T08:37:08.630168+00:00",
+  "timestamp": "2026-05-14T08:37:50.638336+00:00",
   "tanggal_pengamatan": "2026-05-14",
-  "total_hotspot": 3,
+  "total_hotspot": 5,
   "hotspots": [
     {
       "latitude": 0.47883,
       "longitude": 122.01657,
+      "Confidence": "Rendah",
+      "Sumber_Satelit": "Aqua",
+      "Tanggal": "2026-05-14",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Pohuwato",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.47883,
+      "longitude": 122.01657,
+      "Confidence": "Rendah",
+      "Sumber_Satelit": "Aqua",
+      "Tanggal": "2026-05-14",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Pohuwato",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.47753,
+      "longitude": 122.00766,
       "Confidence": "Rendah",
       "Sumber_Satelit": "Aqua",
       "Tanggal": "2026-05-14",
