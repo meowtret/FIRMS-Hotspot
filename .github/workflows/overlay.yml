@@ -58,7 +58,7 @@ jobs:
           git push origin HEAD:main
           echo "changed=true" >> $GITHUB_OUTPUT
       - name: Send to n8n
-        if: steps.commit.outputs.changed == 'true' && github.actor != 'github-actions[bot]'
+        if: steps.commit.outputs.changed == 'true' && github.event_name == 'repository_dispatch'
         run: |
           curl -X POST "${{ secrets.N8N_WEBHOOK_URL }}" \
             -H "Content-Type: application/json" \
