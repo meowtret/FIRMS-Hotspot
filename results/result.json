@@ -1,24 +1,11 @@
 {
-  "timestamp": "2026-05-16T07:39:20.525388+00:00",
+  "timestamp": "2026-05-16T07:51:50.555766+00:00",
   "tanggal_pengamatan": "2026-05-16",
-  "total_hotspot": 2,
+  "total_hotspot": 1,
   "hotspots": [
     {
-      "latitude": 1.06631,
-      "longitude": 121.47472,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-16",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.0656,
-      "longitude": 121.47004,
+      "latitude": 1.06465,
+      "longitude": 121.47237,
       "Confidence": "Sedang",
       "Sumber_Satelit": null,
       "Tanggal": "2026-05-16",
