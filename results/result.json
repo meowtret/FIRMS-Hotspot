@@ -1,6 +1,20 @@
 {
-  "timestamp": "2026-05-19T13:33:29.265976+00:00",
-  "tanggal_pengamatan": "2026-05-19",
-  "total_hotspot": 0,
-  "hotspots": []
+  "timestamp": "2026-05-19T19:02:53.391512+00:00",
+  "tanggal_pengamatan": "2026-05-20",
+  "total_hotspot": 1,
+  "hotspots": [
+    {
+      "latitude": -2.88059,
+      "longitude": 122.16243,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": null,
+      "Tanggal": "2026-05-19",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }
