@@ -1,2 +1,5 @@
-latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
--1.38289,122.48097,305.06,0.42,0.38,2026-05-18,1707,,Sedang,2.0NRT,287.39,0.65
+latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
+-2.58385,121.38199,310.6,2.14,1.42,2026-05-19,1223,Terra,Tinggi,6.1NRT,288.55,27.49
+-2.58625,121.36388,307.02,2.15,1.42,2026-05-19,1223,Terra,Sedang,6.1NRT,288.26,20.49
+-2.57133,121.38087,301.16,2.14,1.42,2026-05-19,1223,Terra,Rendah,6.1NRT,288.39,9.14
+-2.58158,121.37646,322,2.14,1.42,2026-05-19,1223,Terra,Tinggi,6.1NRT,288.62,57.1
