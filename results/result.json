@@ -1,47 +1,8 @@
 {
-  "timestamp": "2026-05-21T06:51:51.031008+00:00",
+  "timestamp": "2026-05-21T06:53:16.634472+00:00",
   "tanggal_pengamatan": "2026-05-21",
-  "total_hotspot": 5,
+  "total_hotspot": 2,
   "hotspots": [
-    {
-      "latitude": 0.54883,
-      "longitude": 122.55359,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.54861,
-      "longitude": 122.55654,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.58339,
-      "longitude": 122.43272,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
     {
       "latitude": 1.01646,
       "longitude": 121.26421,
