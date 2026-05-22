@@ -1,2 +1,2 @@
-latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
--0.91285,119.53483,331.13,0.41,0.6,2026-05-22,0614,Suomi NPP,Sedang,2.0NRT,282.55,2.25
+latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
+-2.01907,121.41861,310.38,1.12,1.05,2026-05-22,0726,Aqua,Rendah,6.1NRT,288.81,6.06
