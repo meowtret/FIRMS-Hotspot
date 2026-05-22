@@ -1,59 +1,6 @@
 {
-  "timestamp": "2026-05-21T20:09:21.234059+00:00",
+  "timestamp": "2026-05-22T01:26:51.085360+00:00",
   "tanggal_pengamatan": "2026-05-22",
-  "total_hotspot": 4,
-  "hotspots": [
-    {
-      "latitude": -1.24888,
-      "longitude": 122.59326,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Banggai",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.38146,
-      "longitude": 122.4801,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Banggai",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 2.77927,
-      "longitude": 125.40823,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Sulawesi Utara",
-      "Kabupaten_Final": "Siau Tagulandang Biaro",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 2.77518,
-      "longitude": 125.40813,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-21",
-      "Provinsi_Final": "Sulawesi Utara",
-      "Kabupaten_Final": "Siau Tagulandang Biaro",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
