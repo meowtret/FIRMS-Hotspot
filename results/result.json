@@ -1,46 +1,6 @@
 {
-  "timestamp": "2026-05-22T08:04:23.053606+00:00",
+  "timestamp": "2026-05-22T08:12:48.381755+00:00",
   "tanggal_pengamatan": "2026-05-22",
-  "total_hotspot": 3,
-  "hotspots": [
-    {
-      "latitude": 0.55675,
-      "longitude": 123.03584,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-22",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Kota Gorontalo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.55675,
-      "longitude": 123.03584,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-22",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Kota Gorontalo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.01349,
-      "longitude": 121.41917,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": null,
-      "Tanggal": "2026-05-22",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
