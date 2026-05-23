@@ -1,23 +1,2 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.24824,122.59162,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Banggai,,,,APL
--1.38124,122.48032,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Banggai,,,,APL
--2.271,121.76494,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.82137,122.14127,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.82727,122.17825,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.83012,122.17403,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.82481,122.14075,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.82833,122.16285,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.83355,122.17352,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.83414,122.17721,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.83472,122.18085,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.83521,122.16186,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.83915,122.14236,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,KPH Tepe Asa Moroso,Sulawesi Tengah,HPK
--2.87714,122.16669,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.87655,122.16302,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.8788,122.15514,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.87939,122.15882,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.87998,122.16248,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
--2.88057,122.16616,Sedang,Suomi NPP,2026-05-22,Sulawesi Tengah,Morowali,,,,APL
-0.805,124.31649,Sedang,Suomi NPP,2026-05-22,Sulawesi Utara,Bolaang Mongondow,,,,APL
-2.78128,125.40816,Sedang,Suomi NPP,2026-05-22,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
-2.7752,125.40368,Sedang,Suomi NPP,2026-05-22,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
+1.05916,121.51746,Sedang,,2026-05-23,Sulawesi Tengah,Buol,,,,APL
