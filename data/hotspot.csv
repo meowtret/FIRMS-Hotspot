@@ -1,9 +1,2 @@
-latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
--1.38184,122.48035,309.97,0.37,0.58,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,284.81,0.86
--2.57633,121.37403,316.13,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,286.35,2.42
--2.5768,121.37717,313.33,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,285.51,1.57
--2.58146,121.37342,328.98,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,286.85,6.1
--2.58193,121.37655,339.49,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,287.24,2.85
--2.58241,121.3797,303.58,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,285.46,2.85
--2.58289,121.38294,300.4,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,285.35,0.62
--2.58338,121.38619,297.97,0.33,0.55,2026-05-25,1800,Suomi NPP,Sedang,2.0NRT,285.52,0.62
+latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
+-2.57822,121.38534,313.42,4.19,1.9,2026-05-26,0122,Terra,Rendah,6.1NRT,285.65,80.01
