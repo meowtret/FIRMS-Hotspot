@@ -1,4 +1,7 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.55294,120.43772,Sedang,N21,2026-05-30,Sulawesi Tengah,Parigi Moutong,,,,APL
--1.44681,120.67958,Sedang,N21,2026-05-30,Sulawesi Tengah,Poso,,,,APL
--1.44681,120.67958,Sedang,N21,2026-05-30,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HP
+1.02687,121.6658,Sedang,Suomi NPP,2026-05-30,Sulawesi Tengah,Buol,,,,APL
+-2.01312,121.42113,Sedang,Suomi NPP,2026-05-30,Sulawesi Tengah,Morowali,,,,APL
+-2.00812,121.43135,Sedang,Suomi NPP,2026-05-30,Sulawesi Tengah,Morowali,,,,APL
+-2.00975,121.42065,Sedang,Suomi NPP,2026-05-30,Sulawesi Tengah,Morowali,,,,APL
+-2.00474,121.43087,Sedang,Suomi NPP,2026-05-30,Sulawesi Tengah,Morowali,,,,APL
+-1.57213,119.82131,Sedang,Suomi NPP,2026-05-30,Sulawesi Tengah,Sigi,,KPH Kulawi,Sulawesi Tengah,HPT
