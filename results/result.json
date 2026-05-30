@@ -1,26 +1,13 @@
 {
-  "timestamp": "2026-05-30T07:49:52.669895+00:00",
-  "tanggal_pengamatan": "2026-05-30",
-  "total_hotspot": 6,
+  "timestamp": "2026-05-30T18:59:23.698888+00:00",
+  "tanggal_pengamatan": "2026-05-31",
+  "total_hotspot": 2,
   "hotspots": [
     {
-      "latitude": 1.02687,
-      "longitude": 121.6658,
+      "latitude": -2.26491,
+      "longitude": 121.76028,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-30",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.01312,
-      "longitude": 121.42113,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N20",
       "Tanggal": "2026-05-30",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -30,10 +17,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.00812,
-      "longitude": 121.43135,
+      "latitude": -2.27126,
+      "longitude": 121.76589,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N20",
       "Tanggal": "2026-05-30",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -41,45 +28,6 @@
       "kph": null,
       "provinsi": null,
       "fungsi": "APL"
-    },
-    {
-      "latitude": -2.00975,
-      "longitude": 121.42065,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-30",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.00474,
-      "longitude": 121.43087,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-30",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.57213,
-      "longitude": 119.82131,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-05-30",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Sigi",
-      "pbph": null,
-      "kph": "KPH Kulawi",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPT"
     }
   ]
 }
