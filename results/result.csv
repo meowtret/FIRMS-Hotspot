@@ -1,1 +1,4 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+0.55294,120.43772,Sedang,N21,2026-05-30,Sulawesi Tengah,Parigi Moutong,,,,APL
+-1.44681,120.67958,Sedang,N21,2026-05-30,Sulawesi Tengah,Poso,,,,APL
+-1.44681,120.67958,Sedang,N21,2026-05-30,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HP

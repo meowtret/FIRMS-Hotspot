@@ -1,6 +1,46 @@
 {
-  "timestamp": "2026-05-29T07:38:22.037728+00:00",
-  "tanggal_pengamatan": "2026-05-29",
-  "total_hotspot": 0,
-  "hotspots": []
+  "timestamp": "2026-05-30T07:23:23.125133+00:00",
+  "tanggal_pengamatan": "2026-05-30",
+  "total_hotspot": 3,
+  "hotspots": [
+    {
+      "latitude": 0.55294,
+      "longitude": 120.43772,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-05-30",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Parigi Moutong",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.44681,
+      "longitude": 120.67958,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-05-30",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Poso",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.44681,
+      "longitude": 120.67958,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-05-30",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Poso",
+      "pbph": null,
+      "kph": "KPH Sintuwu Maroso",
+      "provinsi": "Sulawesi Tengah",
+      "fungsi": "HP"
+    }
+  ]
 }
