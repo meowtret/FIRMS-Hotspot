@@ -1,33 +1,6 @@
 {
-  "timestamp": "2026-05-31T07:54:49.359079+00:00",
-  "tanggal_pengamatan": "2026-05-31",
-  "total_hotspot": 2,
-  "hotspots": [
-    {
-      "latitude": 0.68926,
-      "longitude": 122.40919,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-05-31",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -0.64221,
-      "longitude": 119.8158,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-05-31",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Donggala",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "timestamp": "2026-05-31T18:52:27.082497+00:00",
+  "tanggal_pengamatan": "2026-06-01",
+  "total_hotspot": 0,
+  "hotspots": []
 }
