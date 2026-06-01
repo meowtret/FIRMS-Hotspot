@@ -1,46 +1,6 @@
 {
-  "timestamp": "2026-06-01T07:32:46.702874+00:00",
+  "timestamp": "2026-06-01T07:53:21.882437+00:00",
   "tanggal_pengamatan": "2026-06-01",
-  "total_hotspot": 3,
-  "hotspots": [
-    {
-      "latitude": -1.45874,
-      "longitude": 123.50082,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-06-01",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Banggai Kepulauan",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.0678,
-      "longitude": 121.50742,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-06-01",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -0.89212,
-      "longitude": 119.63415,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-06-01",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Donggala",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
