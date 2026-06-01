@@ -1,1 +1,3 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+0.1494,119.86267,Rendah,Aqua,2026-06-01,Sulawesi Tengah,Donggala,,,,APL
+-2.0158,121.41917,Sedang,Aqua,2026-06-01,Sulawesi Tengah,Morowali,,,,APL
