@@ -1,8 +1,21 @@
 {
-  "timestamp": "2026-06-02T07:17:24.363208+00:00",
+  "timestamp": "2026-06-02T07:18:53.534561+00:00",
   "tanggal_pengamatan": "2026-06-02",
-  "total_hotspot": 2,
+  "total_hotspot": 3,
   "hotspots": [
+    {
+      "latitude": 0.65458,
+      "longitude": 123.12741,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-02",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Bone Bolango",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
     {
       "latitude": 0.5111,
       "longitude": 120.80333,
