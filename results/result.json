@@ -1,21 +1,8 @@
 {
-  "timestamp": "2026-06-02T07:38:22.786466+00:00",
+  "timestamp": "2026-06-02T07:39:55.287468+00:00",
   "tanggal_pengamatan": "2026-06-02",
-  "total_hotspot": 7,
+  "total_hotspot": 6,
   "hotspots": [
-    {
-      "latitude": 0.55326,
-      "longitude": 122.50869,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-02",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": "KPH Wil. V Boalemo",
-      "provinsi": "Gorontalo",
-      "fungsi": "HP"
-    },
     {
       "latitude": 0.55326,
       "longitude": 122.50869,
