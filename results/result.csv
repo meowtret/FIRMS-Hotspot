@@ -1,5 +1,5 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.42901,123.19705,Sedang,N20,2026-06-03,Gorontalo,Bone Bolango,,KPH Wil. VII Bone Bolango dan Gorontalo Kota,Gorontalo,HL
--1.43698,123.44389,Sedang,N20,2026-06-03,Sulawesi Tengah,Banggai Kepulauan,,,,APL
--1.4362,123.44298,Sedang,N20,2026-06-03,Sulawesi Tengah,Banggai Kepulauan,,,,APL
-0.64715,124.54736,Sedang,N20,2026-06-03,Sulawesi Utara,Bolaang Mongondow Timur,,,,APL
+0.42864,123.19705,Sedang,N21,2026-06-03,Gorontalo,Bone Bolango,,KPH Wil. VII Bone Bolango dan Gorontalo Kota,Gorontalo,HL
+1.3022,121.45421,Sedang,N21,2026-06-03,Sulawesi Tengah,Buol,,,,APL
+-1.36128,119.53452,Sedang,N21,2026-06-03,Sulawesi Tengah,Donggala,,,,APL
+-1.72409,121.7794,Sedang,N21,2026-06-03,Sulawesi Tengah,Morowali,,,,APL
