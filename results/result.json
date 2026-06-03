@@ -1,59 +1,6 @@
 {
-  "timestamp": "2026-06-03T07:18:55.188389+00:00",
+  "timestamp": "2026-06-03T08:28:49.695867+00:00",
   "tanggal_pengamatan": "2026-06-03",
-  "total_hotspot": 4,
-  "hotspots": [
-    {
-      "latitude": 0.42864,
-      "longitude": 123.19705,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-03",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Bone Bolango",
-      "pbph": null,
-      "kph": "KPH Wil. VII Bone Bolango dan Gorontalo Kota",
-      "provinsi": "Gorontalo",
-      "fungsi": "HL"
-    },
-    {
-      "latitude": 1.3022,
-      "longitude": 121.45421,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-03",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.36128,
-      "longitude": 119.53452,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-03",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Donggala",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.72409,
-      "longitude": 121.7794,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-03",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
