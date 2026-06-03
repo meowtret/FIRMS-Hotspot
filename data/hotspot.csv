@@ -1,2 +1,5 @@
 latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
--1.19106,119.49211,327.73,0.39,0.59,2026-06-03,0608,N20,Sedang,2.0NRT,289.97,2.45
+-2.58236,121.37746,350.43,0.38,0.44,2026-06-03,0550,Suomi NPP,Sedang,2.0NRT,291.9,62.24
+-1.19039,119.49028,334.95,0.47,0.4,2026-06-03,0550,Suomi NPP,Sedang,2.0NRT,294.44,5.64
+-1.17944,119.5364,334.3,0.47,0.4,2026-06-03,0550,Suomi NPP,Sedang,2.0NRT,291.85,4.77
+1.30103,121.4544,340.22,0.44,0.46,2026-06-03,0550,Suomi NPP,Sedang,2.0NRT,292.75,3.52
