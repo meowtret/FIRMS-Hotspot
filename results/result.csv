@@ -1,8 +1,5 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--2.82421,122.14111,Sedang,N20,2026-06-02,Sulawesi Tengah,Morowali,,,,APL
--2.82919,122.17275,Sedang,N20,2026-06-02,Sulawesi Tengah,Morowali,,,,APL
--2.83271,122.17214,Sedang,N20,2026-06-02,Sulawesi Tengah,Morowali,,,,APL
--2.83396,122.18009,Sedang,N20,2026-06-02,Sulawesi Tengah,Morowali,,,,APL
--2.87877,122.16594,Sedang,N20,2026-06-02,Sulawesi Tengah,Morowali,,,,APL
--2.87939,122.16995,Sedang,N20,2026-06-02,Sulawesi Tengah,Morowali,,,,APL
-2.77653,125.40627,Sedang,N20,2026-06-02,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
+0.42901,123.19705,Sedang,N20,2026-06-03,Gorontalo,Bone Bolango,,KPH Wil. VII Bone Bolango dan Gorontalo Kota,Gorontalo,HL
+-1.43698,123.44389,Sedang,N20,2026-06-03,Sulawesi Tengah,Banggai Kepulauan,,,,APL
+-1.4362,123.44298,Sedang,N20,2026-06-03,Sulawesi Tengah,Banggai Kepulauan,,,,APL
+0.64715,124.54736,Sedang,N20,2026-06-03,Sulawesi Utara,Bolaang Mongondow Timur,,,,APL
