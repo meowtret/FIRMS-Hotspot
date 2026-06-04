@@ -1,4 +1,8 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.23381,121.67425,Sedang,N21,2026-06-04,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
-1.30153,120.89777,Sedang,N21,2026-06-04,Sulawesi Tengah,Toli-Toli,,,,APL
-1.30153,120.89777,Sedang,N21,2026-06-04,Sulawesi Tengah,Toli-Toli,,,,APL
+0.51752,120.37575,Sedang,Suomi NPP,2026-06-04,Sulawesi Tengah,Parigi Moutong,,,,APL
+0.51752,120.37575,Sedang,Suomi NPP,2026-06-04,Sulawesi Tengah,Parigi Moutong,,,,APL
+-1.27996,121.92971,Sedang,Suomi NPP,2026-06-04,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.23203,121.67202,Sedang,Suomi NPP,2026-06-04,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-1.12704,121.42806,Sedang,Suomi NPP,2026-06-04,Sulawesi Tengah,Tojo Una-Una,,,,APL
+1.30399,120.89738,Sedang,Suomi NPP,2026-06-04,Sulawesi Tengah,Toli-Toli,,,,APL
+1.31428,120.85337,Rendah,Suomi NPP,2026-06-04,Sulawesi Tengah,Toli-Toli,,,,APL
