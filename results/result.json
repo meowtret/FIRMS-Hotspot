@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-06T07:53:58.054870+00:00",
+  "timestamp": "2026-06-06T07:57:05.384843+00:00",
   "tanggal_pengamatan": "2026-06-06",
-  "total_hotspot": 16,
+  "total_hotspot": 19,
   "hotspots": [
     {
       "latitude": -0.60224,
@@ -11,6 +11,19 @@
       "Tanggal": "2026-06-06",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 1.03042,
+      "longitude": 122.16575,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-06",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Buol",
       "pbph": null,
       "kph": null,
       "provinsi": null,
@@ -51,9 +64,35 @@
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Buol",
       "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 1.16048,
+      "longitude": 121.39149,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-06",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Buol",
+      "pbph": null,
       "kph": "KPH Pogogul",
       "provinsi": "Sulawesi Tengah",
       "fungsi": "HP"
+    },
+    {
+      "latitude": 1.25979,
+      "longitude": 121.44656,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-06",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Buol",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
     },
     {
       "latitude": 1.25979,
