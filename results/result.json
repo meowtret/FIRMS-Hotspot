@@ -1,11 +1,37 @@
 {
-  "timestamp": "2026-06-06T07:38:46.880993+00:00",
+  "timestamp": "2026-06-06T07:40:24.378882+00:00",
   "tanggal_pengamatan": "2026-06-06",
-  "total_hotspot": 2,
+  "total_hotspot": 4,
   "hotspots": [
     {
       "latitude": -2.83183,
       "longitude": 122.17667,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
+      "Tanggal": "2026-06-06",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.83183,
+      "longitude": 122.17667,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
+      "Tanggal": "2026-06-06",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.83229,
+      "longitude": 122.17358,
       "Confidence": "Sedang",
       "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-06",
