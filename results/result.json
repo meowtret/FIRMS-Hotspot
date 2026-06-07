@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-07T06:41:03.381128+00:00",
+  "timestamp": "2026-06-07T07:26:01.952365+00:00",
   "tanggal_pengamatan": "2026-06-07",
-  "total_hotspot": 2,
+  "total_hotspot": 6,
   "hotspots": [
     {
-      "latitude": 0.51911,
-      "longitude": 122.4779,
+      "latitude": 0.66081,
+      "longitude": 122.3661,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N20",
       "Tanggal": "2026-06-07",
       "Provinsi_Final": "Gorontalo",
       "Kabupaten_Final": "Boalemo",
@@ -17,10 +17,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 0.51723,
-      "longitude": 122.48037,
+      "latitude": 0.66099,
+      "longitude": 122.36705,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N20",
       "Tanggal": "2026-06-07",
       "Provinsi_Final": "Gorontalo",
       "Kabupaten_Final": "Boalemo",
@@ -28,6 +28,58 @@
       "kph": null,
       "provinsi": null,
       "fungsi": "APL"
+    },
+    {
+      "latitude": 0.4944,
+      "longitude": 123.22495,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-07",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Bone Bolango",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.4944,
+      "longitude": 123.22495,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-07",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Bone Bolango",
+      "pbph": null,
+      "kph": "KPH Wil. VII Bone Bolango dan Gorontalo Kota",
+      "provinsi": "Gorontalo",
+      "fungsi": "HPT"
+    },
+    {
+      "latitude": -0.78935,
+      "longitude": 122.5378,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-07",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 1.20516,
+      "longitude": 121.3616,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-07",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Buol",
+      "pbph": null,
+      "kph": "KPH Pogogul",
+      "provinsi": "Sulawesi Tengah",
+      "fungsi": "HP"
     }
   ]
 }
