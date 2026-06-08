@@ -1,14 +1,6 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.93725,121.4263,Sedang,N21,2026-06-08,Sulawesi Tengah,Buol,,,,APL
-1.06037,121.38502,Sedang,N21,2026-06-08,Sulawesi Tengah,Buol,,,,APL
--2.00884,121.43268,Sedang,N21,2026-06-08,Sulawesi Tengah,Morowali,,,,APL
--2.00884,121.43268,Sedang,N21,2026-06-08,Sulawesi Tengah,Morowali,,,,APL
--2.00884,121.43268,Sedang,N21,2026-06-08,Sulawesi Tengah,Morowali,,,,APL
--2.00553,121.43218,Sedang,N21,2026-06-08,Sulawesi Tengah,Morowali,,,,APL
--2.00553,121.43218,Sedang,N21,2026-06-08,Sulawesi Tengah,Morowali,,,,APL
--2.00553,121.43218,Sedang,N21,2026-06-08,Sulawesi Tengah,Morowali,,,,APL
--1.65532,120.64799,Sedang,N21,2026-06-08,Sulawesi Tengah,Poso,,,,APL
--1.65532,120.64799,Sedang,N21,2026-06-08,Sulawesi Tengah,Poso,,,,APL
--1.44307,120.81662,Sedang,N21,2026-06-08,Sulawesi Tengah,Poso,,,,APL
--1.44307,120.81662,Sedang,N21,2026-06-08,Sulawesi Tengah,Poso,,,,APL
--1.40688,121.23296,Sedang,N21,2026-06-08,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+0.6284,122.50874,Sedang,Suomi NPP,2026-06-08,Gorontalo,Boalemo,,,,APL
+0.63349,122.50805,Sedang,Suomi NPP,2026-06-08,Gorontalo,Boalemo,,,,APL
+1.0277,121.30535,Sedang,Suomi NPP,2026-06-08,Sulawesi Tengah,Buol,,,,APL
+-1.34548,120.35793,Sedang,Suomi NPP,2026-06-08,Sulawesi Tengah,Poso,,,,APL
+-1.15653,120.53864,Sedang,Suomi NPP,2026-06-08,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
