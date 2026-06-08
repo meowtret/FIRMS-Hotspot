@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-08T08:09:33.835514+00:00",
+  "timestamp": "2026-06-08T08:11:04.623986+00:00",
   "tanggal_pengamatan": "2026-06-08",
-  "total_hotspot": 5,
+  "total_hotspot": 6,
   "hotspots": [
     {
       "latitude": 0.6284,
@@ -43,6 +43,19 @@
       "fungsi": "APL"
     },
     {
+      "latitude": 1.0277,
+      "longitude": 121.30535,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
+      "Tanggal": "2026-06-08",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Buol",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
       "latitude": -1.34548,
       "longitude": 120.35793,
       "Confidence": "Sedang",
@@ -56,17 +69,17 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -1.15653,
-      "longitude": 120.53864,
+      "latitude": -1.34548,
+      "longitude": 120.35793,
       "Confidence": "Sedang",
       "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-08",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Poso",
       "pbph": null,
-      "kph": "KPH Sintuwu Maroso",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPT"
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
     }
   ]
 }
