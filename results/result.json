@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-09T19:16:44.049182+00:00",
+  "timestamp": "2026-06-09T19:36:14.878782+00:00",
   "tanggal_pengamatan": "2026-06-10",
-  "total_hotspot": 14,
+  "total_hotspot": 16,
   "hotspots": [
     {
-      "latitude": -1.3785,
-      "longitude": 122.47675,
+      "latitude": -1.38179,
+      "longitude": 122.4814,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Banggai",
@@ -17,10 +17,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -1.38352,
-      "longitude": 122.47871,
+      "latitude": -1.38369,
+      "longitude": 122.48022,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Banggai",
@@ -30,10 +30,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.82454,
-      "longitude": 122.17536,
+      "latitude": -2.82217,
+      "longitude": 122.13902,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -43,10 +43,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.82832,
-      "longitude": 122.1599,
+      "latitude": -2.82293,
+      "longitude": 122.14394,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -56,10 +56,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.82913,
-      "longitude": 122.16473,
+      "latitude": -2.83222,
+      "longitude": 122.17334,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -69,10 +69,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.82998,
-      "longitude": 122.16983,
+      "latitude": -2.833,
+      "longitude": 122.17845,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -82,10 +82,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.8308,
-      "longitude": 122.17477,
+      "latitude": -2.82466,
+      "longitude": 122.14128,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -95,10 +95,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.84786,
-      "longitude": 122.16257,
+      "latitude": -2.82977,
+      "longitude": 122.17672,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -108,10 +108,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.85874,
-      "longitude": 122.15141,
+      "latitude": -2.86049,
+      "longitude": 122.1559,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -121,10 +121,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.82747,
-      "longitude": 122.16295,
+      "latitude": -2.86125,
+      "longitude": 122.16109,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -134,10 +134,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.8292,
-      "longitude": 122.17287,
+      "latitude": -2.86519,
+      "longitude": 122.15507,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -147,10 +147,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.83004,
-      "longitude": 122.17771,
+      "latitude": -2.87612,
+      "longitude": 122.16382,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -160,10 +160,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.84707,
-      "longitude": 122.16577,
+      "latitude": -2.87923,
+      "longitude": 122.15224,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -173,13 +173,39 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.86331,
-      "longitude": 122.14911,
+      "latitude": -2.88005,
+      "longitude": 122.15778,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-09",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.89373,
+      "longitude": 124.08339,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-09",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Bolaang Mongondow",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 2.77667,
+      "longitude": 125.41358,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-09",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Siau Tagulandang Biaro",
       "pbph": null,
       "kph": null,
       "provinsi": null,
