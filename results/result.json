@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-09T07:38:09.751613+00:00",
+  "timestamp": "2026-06-09T07:39:41.134149+00:00",
   "tanggal_pengamatan": "2026-06-09",
-  "total_hotspot": 13,
+  "total_hotspot": 11,
   "hotspots": [
     {
       "latitude": -1.37469,
@@ -15,32 +15,6 @@
       "kph": "KPH Toili Baturube",
       "provinsi": "Sulawesi Tengah",
       "fungsi": "HPT"
-    },
-    {
-      "latitude": 0.55025,
-      "longitude": 120.9623,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-09",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Parigi Moutong",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.55025,
-      "longitude": 120.9623,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-09",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Parigi Moutong",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
     },
     {
       "latitude": 0.55025,
