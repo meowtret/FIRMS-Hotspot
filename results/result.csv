@@ -1,12 +1,10 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.37469,121.7402,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Morowali,PT BINA BALANTAK RAYA,KPH Toili Baturube,Sulawesi Tengah,HPT
-0.55025,120.9623,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Parigi Moutong,,,,APL
--1.77323,120.71667,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.43048,120.94723,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.43048,120.94723,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.16783,121.63407,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.16783,121.63407,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.16783,121.63407,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HL
--0.9909,121.70274,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--0.42801,121.87139,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
--0.42801,121.87139,Sedang,Suomi NPP,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
+0.39726,123.23659,Sedang,N20,2026-06-09,Gorontalo,Bone Bolango,,,,APL
+0.7638,122.68922,Tinggi,N20,2026-06-09,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HP
+0.7633,122.68602,Sedang,N20,2026-06-09,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HP
+1.03416,121.49304,Sedang,N20,2026-06-09,Sulawesi Tengah,Buol,,,,APL
+1.03416,121.49304,Sedang,N20,2026-06-09,Sulawesi Tengah,Buol,,,,APL
+-1.66935,121.2942,Sedang,N20,2026-06-09,Sulawesi Tengah,Morowali,,,,CA
+-1.67213,121.29831,Sedang,N20,2026-06-09,Sulawesi Tengah,Morowali,,,,CA
+-1.66724,121.2972,Sedang,N20,2026-06-09,Sulawesi Tengah,Morowali,,,,CA
+-0.42739,121.87141,Sedang,N20,2026-06-09,Sulawesi Tengah,Tojo Una-Una,,,,APL
