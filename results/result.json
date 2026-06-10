@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-10T11:26:07.661299+00:00",
+  "timestamp": "2026-06-10T11:27:34.531480+00:00",
   "tanggal_pengamatan": "2026-06-10",
-  "total_hotspot": 10,
+  "total_hotspot": 9,
   "hotspots": [
     {
       "latitude": 0.51891,
@@ -67,19 +67,6 @@
       "kph": "KPH Wil. III Pahuwato",
       "provinsi": "Gorontalo",
       "fungsi": "HPT"
-    },
-    {
-      "latitude": -1.77972,
-      "longitude": 120.659,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-10",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Poso",
-      "pbph": null,
-      "kph": "KPH Sintuwu Maroso",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HL"
     },
     {
       "latitude": -1.77972,
