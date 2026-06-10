@@ -1,21 +1,8 @@
 {
-  "timestamp": "2026-06-10T08:00:09.640790+00:00",
+  "timestamp": "2026-06-10T08:01:41.647712+00:00",
   "tanggal_pengamatan": "2026-06-10",
-  "total_hotspot": 9,
+  "total_hotspot": 8,
   "hotspots": [
-    {
-      "latitude": 0.64844,
-      "longitude": 122.51704,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-06-10",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
     {
       "latitude": -1.38115,
       "longitude": 122.48354,
