@@ -1,20 +1,6 @@
 {
-  "timestamp": "2026-06-10T21:10:38.592493+00:00",
+  "timestamp": "2026-06-11T01:19:08.303016+00:00",
   "tanggal_pengamatan": "2026-06-11",
-  "total_hotspot": 1,
-  "hotspots": [
-    {
-      "latitude": -1.38457,
-      "longitude": 122.48014,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-10",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Banggai",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
