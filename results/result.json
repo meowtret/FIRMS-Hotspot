@@ -1,6 +1,85 @@
 {
-  "timestamp": "2026-06-11T13:56:40.405687+00:00",
-  "tanggal_pengamatan": "2026-06-11",
-  "total_hotspot": 0,
-  "hotspots": []
+  "timestamp": "2026-06-11T18:55:44.833770+00:00",
+  "tanggal_pengamatan": "2026-06-12",
+  "total_hotspot": 6,
+  "hotspots": [
+    {
+      "latitude": -1.24931,
+      "longitude": 122.59024,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-11",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.38323,
+      "longitude": 122.4817,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-11",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.83348,
+      "longitude": 122.16862,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-11",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.8627,
+      "longitude": 122.1527,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-11",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.86615,
+      "longitude": 122.15221,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-11",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.88813,
+      "longitude": 124.73428,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-11",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Minahasa Tenggara",
+      "pbph": null,
+      "kph": "KPH UNIT V MINAHASA, MINAHASA TENGGARA, MINAHASA SELATAN DAN TOMOHON",
+      "provinsi": "Sulawesi Utara",
+      "fungsi": "HL"
+    }
+  ]
 }

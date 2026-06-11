@@ -1,1 +1,7 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+-1.24931,122.59024,Sedang,N21,2026-06-11,Sulawesi Tengah,Banggai,,,,APL
+-1.38323,122.4817,Sedang,N21,2026-06-11,Sulawesi Tengah,Banggai,,,,APL
+-2.83348,122.16862,Sedang,N21,2026-06-11,Sulawesi Tengah,Morowali,,,,APL
+-2.8627,122.1527,Sedang,N21,2026-06-11,Sulawesi Tengah,Morowali,,,,APL
+-2.86615,122.15221,Sedang,N21,2026-06-11,Sulawesi Tengah,Morowali,,,,APL
+0.88813,124.73428,Sedang,N21,2026-06-11,Sulawesi Utara,Minahasa Tenggara,,"KPH UNIT V MINAHASA, MINAHASA TENGGARA, MINAHASA SELATAN DAN TOMOHON",Sulawesi Utara,HL
