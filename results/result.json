@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-12T08:19:37.996239+00:00",
+  "timestamp": "2026-06-12T09:04:42.590931+00:00",
   "tanggal_pengamatan": "2026-06-12",
-  "total_hotspot": 2,
+  "total_hotspot": 3,
   "hotspots": [
     {
-      "latitude": -2.01267,
-      "longitude": 121.42281,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "latitude": -2.01263,
+      "longitude": 121.41881,
+      "Confidence": "Rendah",
+      "Sumber_Satelit": "Aqua",
       "Tanggal": "2026-06-12",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
@@ -17,10 +17,23 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.0121,
-      "longitude": 121.42065,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
+      "latitude": -2.01263,
+      "longitude": 121.41881,
+      "Confidence": "Rendah",
+      "Sumber_Satelit": "Aqua",
+      "Tanggal": "2026-06-12",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.01263,
+      "longitude": 121.41881,
+      "Confidence": "Rendah",
+      "Sumber_Satelit": "Aqua",
       "Tanggal": "2026-06-12",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
