@@ -1,6 +1,3 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.38134,122.48141,Sedang,N21,2026-06-14,Sulawesi Tengah,Banggai,,,,APL
--2.88166,122.15989,Sedang,N21,2026-06-14,Sulawesi Tengah,Morowali,,,,APL
--2.82885,122.17595,Sedang,N21,2026-06-14,Sulawesi Tengah,Morowali,,,,APL
--2.82944,122.172,Sedang,N21,2026-06-14,Sulawesi Tengah,Morowali,,,,APL
--2.00909,121.41908,Sedang,N21,2026-06-14,Sulawesi Tengah,Morowali,,,,APL
+-1.38135,122.48154,Sedang,Suomi NPP,2026-06-14,Sulawesi Tengah,Banggai,,,,APL
+-2.83019,122.17368,Sedang,Suomi NPP,2026-06-14,Sulawesi Tengah,Morowali,,,,APL
