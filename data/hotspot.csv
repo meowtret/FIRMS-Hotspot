@@ -1,2 +1,3 @@
-latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
--1.38314,122.48334,329.01,0.49,0.65,2026-06-14,0601,N20,Sedang,2.0NRT,285.59,2.48
+latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
+-2.58288,121.37617,341.72,1.04,1.02,2026-06-14,0718,Aqua,Tinggi,6.1NRT,296.69,45.84
+-2.58419,121.36713,310.71,1.04,1.02,2026-06-14,0718,Aqua,Rendah,6.1NRT,294.3,7.01
