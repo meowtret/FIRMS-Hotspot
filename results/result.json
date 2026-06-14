@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-14T07:59:10.785540+00:00",
+  "timestamp": "2026-06-14T08:00:37.238803+00:00",
   "tanggal_pengamatan": "2026-06-14",
-  "total_hotspot": 2,
+  "total_hotspot": 3,
   "hotspots": [
     {
       "latitude": -1.38135,
@@ -11,6 +11,19 @@
       "Tanggal": "2026-06-14",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.83019,
+      "longitude": 122.17368,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
+      "Tanggal": "2026-06-14",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
       "pbph": null,
       "kph": null,
       "provinsi": null,
