@@ -1,33 +1,6 @@
 {
-  "timestamp": "2026-06-14T14:07:07.523122+00:00",
+  "timestamp": "2026-06-14T14:08:35.493241+00:00",
   "tanggal_pengamatan": "2026-06-14",
-  "total_hotspot": 2,
-  "hotspots": [
-    {
-      "latitude": -2.82923,
-      "longitude": 122.17346,
-      "Confidence": "Rendah",
-      "Sumber_Satelit": "Terra",
-      "Tanggal": "2026-06-14",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.82923,
-      "longitude": 122.17346,
-      "Confidence": "Rendah",
-      "Sumber_Satelit": "Terra",
-      "Tanggal": "2026-06-14",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
