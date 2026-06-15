@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-15T06:55:46.800932+00:00",
+  "timestamp": "2026-06-15T07:31:34.038727+00:00",
   "tanggal_pengamatan": "2026-06-15",
   "total_hotspot": 2,
   "hotspots": [
     {
-      "latitude": -1.56163,
-      "longitude": 120.72978,
+      "latitude": -1.34343,
+      "longitude": 120.33952,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
+      "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-15",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Poso",
@@ -17,10 +17,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -1.55932,
-      "longitude": 120.72814,
+      "latitude": -1.34343,
+      "longitude": 120.33952,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
+      "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-15",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Poso",
