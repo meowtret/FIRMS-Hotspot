@@ -1,6 +1,33 @@
 {
-  "timestamp": "2026-06-14T21:28:31.371048+00:00",
+  "timestamp": "2026-06-15T06:55:46.800932+00:00",
   "tanggal_pengamatan": "2026-06-15",
-  "total_hotspot": 0,
-  "hotspots": []
+  "total_hotspot": 2,
+  "hotspots": [
+    {
+      "latitude": -1.56163,
+      "longitude": 120.72978,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-15",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Poso",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.55932,
+      "longitude": 120.72814,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-15",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Poso",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }
