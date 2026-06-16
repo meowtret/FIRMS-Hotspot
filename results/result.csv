@@ -1,1 +1,6 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+0.52277,122.44152,Sedang,Suomi NPP,2026-06-16,Gorontalo,Boalemo,,,,APL
+0.52271,122.43886,Sedang,Suomi NPP,2026-06-16,Gorontalo,Boalemo,,,,APL
+1.02564,121.5218,Sedang,Suomi NPP,2026-06-16,Sulawesi Tengah,Buol,,,,APL
+1.24852,121.30905,Sedang,Suomi NPP,2026-06-16,Sulawesi Tengah,Buol,,,,APL
+-1.70644,120.21602,Sedang,Suomi NPP,2026-06-16,Sulawesi Tengah,Poso,,,,APL
