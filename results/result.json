@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-18T08:07:31.006492+00:00",
+  "timestamp": "2026-06-18T08:09:00.131357+00:00",
   "tanggal_pengamatan": "2026-06-18",
-  "total_hotspot": 8,
+  "total_hotspot": 9,
   "hotspots": [
     {
       "latitude": -1.38083,
@@ -69,30 +69,17 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 0.54977,
-      "longitude": 120.35539,
+      "latitude": -1.09566,
+      "longitude": 119.93208,
       "Confidence": "Sedang",
       "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-18",
       "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Parigi Moutong",
+      "Kabupaten_Final": "Sigi",
       "pbph": null,
-      "kph": "KPH Dampelas Tinombo",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPT"
-    },
-    {
-      "latitude": 0.54977,
-      "longitude": 120.35539,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-18",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Parigi Moutong",
-      "pbph": null,
-      "kph": "KPH Dampelas Tinombo",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPT"
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
     },
     {
       "latitude": -1.09566,
@@ -102,6 +89,32 @@
       "Tanggal": "2026-06-18",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Sigi",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.03384,
+      "longitude": 121.42896,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
+      "Tanggal": "2026-06-18",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Tojo Una-Una",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.03384,
+      "longitude": 121.42896,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
+      "Tanggal": "2026-06-18",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Tojo Una-Una",
       "pbph": null,
       "kph": null,
       "provinsi": null,
