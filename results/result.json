@@ -1,26 +1,13 @@
 {
-  "timestamp": "2026-06-18T18:18:03.232707+00:00",
+  "timestamp": "2026-06-18T19:37:30.137476+00:00",
   "tanggal_pengamatan": "2026-06-19",
-  "total_hotspot": 2,
+  "total_hotspot": 1,
   "hotspots": [
     {
-      "latitude": 2.77961,
-      "longitude": 125.39857,
+      "latitude": 2.77959,
+      "longitude": 125.41064,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-18",
-      "Provinsi_Final": "Sulawesi Utara",
-      "Kabupaten_Final": "Siau Tagulandang Biaro",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 2.77834,
-      "longitude": 125.40211,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
+      "Sumber_Satelit": "N20",
       "Tanggal": "2026-06-18",
       "Provinsi_Final": "Sulawesi Utara",
       "Kabupaten_Final": "Siau Tagulandang Biaro",
