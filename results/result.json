@@ -1,8 +1,21 @@
 {
-  "timestamp": "2026-06-18T07:47:32.977332+00:00",
+  "timestamp": "2026-06-18T07:49:06.395583+00:00",
   "tanggal_pengamatan": "2026-06-18",
-  "total_hotspot": 1,
+  "total_hotspot": 2,
   "hotspots": [
+    {
+      "latitude": 0.53321,
+      "longitude": 120.35785,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-18",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Parigi Moutong",
+      "pbph": null,
+      "kph": "KPH Dampelas Tinombo",
+      "provinsi": "Sulawesi Tengah",
+      "fungsi": "HPT"
+    },
     {
       "latitude": -1.11634,
       "longitude": 119.86356,
