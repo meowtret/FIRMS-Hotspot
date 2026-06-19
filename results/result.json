@@ -1,46 +1,6 @@
 {
-  "timestamp": "2026-06-19T07:49:55.117141+00:00",
-  "tanggal_pengamatan": "2026-06-19",
-  "total_hotspot": 3,
-  "hotspots": [
-    {
-      "latitude": -0.74706,
-      "longitude": 123.00712,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-19",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Banggai",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.16828,
-      "longitude": 121.58163,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-19",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Tojo Una-Una",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.1665,
-      "longitude": 121.58181,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-19",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Tojo Una-Una",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "timestamp": "2026-06-19T19:17:44.964933+00:00",
+  "tanggal_pengamatan": "2026-06-20",
+  "total_hotspot": 0,
+  "hotspots": []
 }
