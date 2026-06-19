@@ -1,34 +1,8 @@
 {
-  "timestamp": "2026-06-19T07:18:28.783871+00:00",
+  "timestamp": "2026-06-19T07:19:59.017966+00:00",
   "tanggal_pengamatan": "2026-06-19",
-  "total_hotspot": 3,
+  "total_hotspot": 1,
   "hotspots": [
-    {
-      "latitude": 0.94224,
-      "longitude": 122.96112,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-19",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Gorontalo Utara",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.94224,
-      "longitude": 122.96112,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-19",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Gorontalo Utara",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
     {
       "latitude": 1.04858,
       "longitude": 122.05154,
