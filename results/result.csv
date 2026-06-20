@@ -1,9 +1,10 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.13543,119.86475,Sedang,N21,2026-06-20,Sulawesi Tengah,Sigi,,KPH Kulawi,Sulawesi Tengah,HL
--1.13726,119.86284,Sedang,N21,2026-06-20,Sulawesi Tengah,Sigi,,KPH Kulawi,Sulawesi Tengah,HL
--1.27361,121.2081,Sedang,N21,2026-06-20,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.27361,121.2081,Sedang,N21,2026-06-20,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.27361,121.2081,Sedang,N21,2026-06-20,Sulawesi Tengah,Tojo Una-Una,,,,APL
-0.75049,120.68907,Sedang,N21,2026-06-20,Sulawesi Tengah,Toli-Toli,,,,APL
-0.75049,120.68907,Sedang,N21,2026-06-20,Sulawesi Tengah,Toli-Toli,,,,APL
-0.75049,120.68907,Sedang,N21,2026-06-20,Sulawesi Tengah,Toli-Toli,,,,APL
+0.27479,119.9301,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Donggala,,,,APL
+0.31226,119.87025,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Donggala,,,,APL
+0.3385,119.93042,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Donggala,,,,APL
+-1.87601,120.28148,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Poso,,,,APL
+-1.13597,119.86443,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Sigi,,KPH Kulawi,Sulawesi Tengah,HL
+-1.07441,119.90846,Rendah,Suomi NPP,2026-06-20,Sulawesi Tengah,Sigi,,,,APL
+-1.08145,121.54606,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+0.81537,120.72484,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Toli-Toli,,,,APL
+0.81537,120.72484,Sedang,Suomi NPP,2026-06-20,Sulawesi Tengah,Toli-Toli,,,,APL
