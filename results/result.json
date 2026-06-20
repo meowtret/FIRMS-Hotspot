@@ -1,6 +1,20 @@
 {
-  "timestamp": "2026-06-20T09:38:49.389847+00:00",
-  "tanggal_pengamatan": "2026-06-20",
-  "total_hotspot": 0,
-  "hotspots": []
+  "timestamp": "2026-06-20T18:58:26.594065+00:00",
+  "tanggal_pengamatan": "2026-06-21",
+  "total_hotspot": 1,
+  "hotspots": [
+    {
+      "latitude": 0.85552,
+      "longitude": 123.49062,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-20",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Bolaang Mongondow Utara",
+      "pbph": null,
+      "kph": "KPH Unit I Bolaang Mongondow dan Bolaang Mongondow Utara",
+      "provinsi": "Sulawesi Utara",
+      "fungsi": "HP"
+    }
+  ]
 }
