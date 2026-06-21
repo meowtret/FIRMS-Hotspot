@@ -1,12 +1,15 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.48878,121.8406,Sedang,N20,2026-06-21,Gorontalo,Pohuwato,,,,APL
--1.09781,122.08303,Sedang,N20,2026-06-21,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
-1.0066,121.53513,Sedang,N20,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.0066,121.53513,Sedang,N20,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.00601,121.5312,Sedang,N20,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.00601,121.5312,Sedang,N20,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.02718,121.29611,Sedang,N20,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.02718,121.29611,Sedang,N20,2026-06-21,Sulawesi Tengah,Buol,,,,APL
--1.4191,120.87936,Sedang,N20,2026-06-21,Sulawesi Tengah,Poso,,,,APL
-0.90922,123.19662,Sedang,N20,2026-06-21,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
-0.90922,123.19662,Sedang,N20,2026-06-21,Sulawesi Utara,Bolaang Mongondow Utara,,KPH Unit I Bolaang Mongondow dan Bolaang Mongondow Utara,Sulawesi Utara,HL
+0.66118,122.55647,Sedang,Suomi NPP,2026-06-21,Gorontalo,Boalemo,,,,APL
+0.56662,122.73614,Sedang,Suomi NPP,2026-06-21,Gorontalo,Gorontalo,,KPH Wil. VI Gorontalo,Gorontalo,HPT
+0.70077,122.93346,Sedang,Suomi NPP,2026-06-21,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
+1.00579,121.53232,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.00579,121.53232,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.02034,121.45245,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.02034,121.45245,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.02111,121.45344,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.02111,121.45344,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.02709,121.29604,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+1.02709,121.29604,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
+0.87286,124.11014,Sedang,Suomi NPP,2026-06-21,Sulawesi Utara,Bolaang Mongondow,,,,APL
+0.87621,124.10963,Sedang,Suomi NPP,2026-06-21,Sulawesi Utara,Bolaang Mongondow,,,,APL
+1.17879,125.03033,Sedang,Suomi NPP,2026-06-21,Sulawesi Utara,Minahasa,,,,APL
