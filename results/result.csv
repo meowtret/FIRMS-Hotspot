@@ -1,11 +1,4 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.66118,122.55647,Sedang,Suomi NPP,2026-06-21,Gorontalo,Boalemo,,,,APL
-0.56662,122.73614,Sedang,Suomi NPP,2026-06-21,Gorontalo,Gorontalo,,KPH Wil. VI Gorontalo,Gorontalo,HPT
-0.70077,122.93346,Sedang,Suomi NPP,2026-06-21,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
-1.00579,121.53232,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.02034,121.45245,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.02111,121.45344,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-1.02709,121.29604,Sedang,Suomi NPP,2026-06-21,Sulawesi Tengah,Buol,,,,APL
-0.87286,124.11014,Sedang,Suomi NPP,2026-06-21,Sulawesi Utara,Bolaang Mongondow,,,,APL
-0.87621,124.10963,Sedang,Suomi NPP,2026-06-21,Sulawesi Utara,Bolaang Mongondow,,,,APL
-1.17879,125.03033,Sedang,Suomi NPP,2026-06-21,Sulawesi Utara,Minahasa,,,,APL
+-2.88257,122.16288,Rendah,Terra,2026-06-21,Sulawesi Tengah,Morowali,,,,APL
+-2.87355,122.16158,Rendah,Terra,2026-06-21,Sulawesi Tengah,Morowali,,,,APL
+-2.82591,122.17364,Rendah,Terra,2026-06-21,Sulawesi Tengah,Morowali,,,,APL
