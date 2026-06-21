@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-21T08:55:32.184122+00:00",
+  "timestamp": "2026-06-21T08:56:51.039593+00:00",
   "tanggal_pengamatan": "2026-06-21",
-  "total_hotspot": 14,
+  "total_hotspot": 10,
   "hotspots": [
     {
       "latitude": 0.66118,
@@ -56,32 +56,6 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 1.00579,
-      "longitude": 121.53232,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-21",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.02034,
-      "longitude": 121.45245,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-21",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
       "latitude": 1.02034,
       "longitude": 121.45245,
       "Confidence": "Sedang",
@@ -97,32 +71,6 @@
     {
       "latitude": 1.02111,
       "longitude": 121.45344,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-21",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.02111,
-      "longitude": 121.45344,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-06-21",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.02709,
-      "longitude": 121.29604,
       "Confidence": "Sedang",
       "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-21",
