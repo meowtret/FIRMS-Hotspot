@@ -1,1 +1,3 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+-2.01331,121.42548,Rendah,Terra,2026-06-22,Sulawesi Tengah,Morowali,,,,APL
+1.04073,120.82336,Rendah,Terra,2026-06-22,Sulawesi Tengah,Toli-Toli,,,,APL
