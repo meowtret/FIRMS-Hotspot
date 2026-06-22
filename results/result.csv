@@ -1,13 +1,15 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.8578,122.94695,Sedang,Suomi NPP,2026-06-22,Gorontalo,Gorontalo Utara,,,,APL
-1.0588,121.38583,Sedang,Suomi NPP,2026-06-22,Sulawesi Tengah,Buol,,,,APL
--1.49101,120.79195,Sedang,Suomi NPP,2026-06-22,Sulawesi Tengah,Poso,,,,APL
--1.49101,120.79195,Sedang,Suomi NPP,2026-06-22,Sulawesi Tengah,Poso,,,,APL
--1.01242,121.73736,Sedang,Suomi NPP,2026-06-22,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.01253,121.73587,Sedang,Suomi NPP,2026-06-22,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
-0.96891,124.35698,Sedang,Suomi NPP,2026-06-22,Sulawesi Utara,Bolaang Mongondow,,,,APL
-0.34063,123.50574,Sedang,Suomi NPP,2026-06-22,Sulawesi Utara,Bolaang Mongondow Selatan,,,,APL
-0.33741,123.50716,Sedang,Suomi NPP,2026-06-22,Sulawesi Utara,Bolaang Mongondow Selatan,,,,APL
-0.34194,123.50664,Sedang,Suomi NPP,2026-06-22,Sulawesi Utara,Bolaang Mongondow Selatan,,,,APL
-1.14795,124.59616,Sedang,Suomi NPP,2026-06-22,Sulawesi Utara,Minahasa Selatan,,,,APL
-1.14963,124.59531,Sedang,Suomi NPP,2026-06-22,Sulawesi Utara,Minahasa Selatan,,,,APL
+-1.3828,122.47999,Sedang,N20,2026-06-22,Sulawesi Tengah,Banggai,,,,APL
+-0.96591,122.06792,Sedang,N20,2026-06-22,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
+1.05148,121.4263,Sedang,N20,2026-06-22,Sulawesi Tengah,Buol,,,,APL
+1.05002,121.42696,Sedang,N20,2026-06-22,Sulawesi Tengah,Buol,,,,APL
+1.06143,121.38592,Sedang,N20,2026-06-22,Sulawesi Tengah,Buol,,,,APL
+-1.0233,121.76072,Sedang,N20,2026-06-22,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-1.01631,121.73615,Sedang,N20,2026-06-22,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+1.56261,125.14816,Sedang,N20,2026-06-22,Sulawesi Utara,Bitung,,,,APL
+1.56599,125.14766,Sedang,N20,2026-06-22,Sulawesi Utara,Bitung,,,,APL
+0.96702,124.35537,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow,,,,APL
+0.33901,123.5077,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow Selatan,,,,APL
+0.84113,123.61898,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+0.72716,124.34034,Sedang,N20,2026-06-22,Sulawesi Utara,Kotamobagu,,,,APL
+1.14927,124.59373,Sedang,N20,2026-06-22,Sulawesi Utara,Minahasa Selatan,,,,APL
