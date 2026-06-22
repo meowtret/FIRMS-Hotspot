@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-22T19:23:59.414777+00:00",
+  "timestamp": "2026-06-22T20:08:36.499237+00:00",
   "tanggal_pengamatan": "2026-06-23",
   "total_hotspot": 2,
   "hotspots": [
     {
-      "latitude": 2.78063,
-      "longitude": 125.40458,
+      "latitude": 2.77884,
+      "longitude": 125.40685,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
+      "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-22",
       "Provinsi_Final": "Sulawesi Utara",
       "Kabupaten_Final": "Siau Tagulandang Biaro",
@@ -17,10 +17,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 2.77724,
-      "longitude": 125.40411,
+      "latitude": 2.77789,
+      "longitude": 125.40724,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
+      "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-06-22",
       "Provinsi_Final": "Sulawesi Utara",
       "Kabupaten_Final": "Siau Tagulandang Biaro",
