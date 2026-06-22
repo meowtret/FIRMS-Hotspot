@@ -1,20 +1,33 @@
 {
-  "timestamp": "2026-06-22T08:46:56.666915+00:00",
-  "tanggal_pengamatan": "2026-06-22",
-  "total_hotspot": 1,
+  "timestamp": "2026-06-22T19:22:29.279225+00:00",
+  "tanggal_pengamatan": "2026-06-23",
+  "total_hotspot": 2,
   "hotspots": [
     {
-      "latitude": -1.77485,
-      "longitude": 120.75944,
+      "latitude": 2.78063,
+      "longitude": 125.40458,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "Aqua",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-22",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Poso",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Siau Tagulandang Biaro",
       "pbph": null,
-      "kph": "KPH Sintuwu Maroso",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPT"
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 2.77724,
+      "longitude": 125.40411,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-22",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Siau Tagulandang Biaro",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
     }
   ]
 }
