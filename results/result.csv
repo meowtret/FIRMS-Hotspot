@@ -1,15 +1,4 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.3828,122.47999,Sedang,N20,2026-06-22,Sulawesi Tengah,Banggai,,,,APL
--0.96591,122.06792,Sedang,N20,2026-06-22,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
-1.05148,121.4263,Sedang,N20,2026-06-22,Sulawesi Tengah,Buol,,,,APL
-1.05002,121.42696,Sedang,N20,2026-06-22,Sulawesi Tengah,Buol,,,,APL
-1.06143,121.38592,Sedang,N20,2026-06-22,Sulawesi Tengah,Buol,,,,APL
--1.49226,120.79322,Sedang,N20,2026-06-22,Sulawesi Tengah,Poso,,,,APL
--1.01631,121.73615,Sedang,N20,2026-06-22,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
-1.56261,125.14816,Sedang,N20,2026-06-22,Sulawesi Utara,Bitung,,,,APL
-1.56599,125.14766,Sedang,N20,2026-06-22,Sulawesi Utara,Bitung,,,,APL
-0.96702,124.35537,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow,,,,APL
-0.33901,123.5077,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow Selatan,,,,APL
-0.84113,123.61898,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
-0.72716,124.34034,Sedang,N20,2026-06-22,Sulawesi Utara,Kotamobagu,,,,APL
-1.14927,124.59373,Sedang,N20,2026-06-22,Sulawesi Utara,Minahasa Selatan,,,,APL
+0.62408,122.48659,Sedang,N21,2026-06-22,Gorontalo,Boalemo,,,,APL
+-1.53136,121.19794,Sedang,N21,2026-06-22,Sulawesi Tengah,Morowali,,,,APL
+-1.53136,121.19794,Sedang,N21,2026-06-22,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
