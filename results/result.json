@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-22T07:49:27.500981+00:00",
+  "timestamp": "2026-06-22T07:50:59.578275+00:00",
   "tanggal_pengamatan": "2026-06-22",
   "total_hotspot": 14,
   "hotspots": [
@@ -69,13 +69,13 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -1.0233,
-      "longitude": 121.76072,
+      "latitude": -1.49226,
+      "longitude": 120.79322,
       "Confidence": "Sedang",
       "Sumber_Satelit": "N20",
       "Tanggal": "2026-06-22",
       "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Tojo Una-Una",
+      "Kabupaten_Final": "Poso",
       "pbph": null,
       "kph": null,
       "provinsi": null,
