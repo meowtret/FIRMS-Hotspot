@@ -1,59 +1,20 @@
 {
-  "timestamp": "2026-06-22T08:11:53.082937+00:00",
+  "timestamp": "2026-06-22T08:45:28.621478+00:00",
   "tanggal_pengamatan": "2026-06-22",
-  "total_hotspot": 4,
+  "total_hotspot": 1,
   "hotspots": [
     {
-      "latitude": 0.62408,
-      "longitude": 122.48659,
+      "latitude": -1.77485,
+      "longitude": 120.75944,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-22",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.62408,
-      "longitude": 122.48659,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-22",
-      "Provinsi_Final": "Gorontalo",
-      "Kabupaten_Final": "Boalemo",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.53136,
-      "longitude": 121.19794,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
+      "Sumber_Satelit": "Aqua",
       "Tanggal": "2026-06-22",
       "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
+      "Kabupaten_Final": "Poso",
       "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -1.53136,
-      "longitude": 121.19794,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-22",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": "KPH Sivia Patuju",
+      "kph": "KPH Sintuwu Maroso",
       "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPK"
+      "fungsi": "HPT"
     }
   ]
 }
