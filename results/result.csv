@@ -1,4 +1,5 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.52783,122.31475,Sedang,N20,2026-06-23,Gorontalo,Boalemo,,,,APL
-0.58468,122.41969,Sedang,N20,2026-06-23,Gorontalo,Boalemo,,,,APL
-1.81084,125.12112,Sedang,N20,2026-06-23,Sulawesi Utara,Minahasa Utara,,,,APL
+0.67933,122.42296,Sedang,N21,2026-06-23,Gorontalo,Boalemo,,,,APL
+0.73662,122.62511,Sedang,N21,2026-06-23,Gorontalo,Gorontalo,,,,APL
+-1.38164,122.48316,Sedang,N21,2026-06-23,Sulawesi Tengah,Banggai,,,,APL
+1.15044,124.58315,Sedang,N21,2026-06-23,Sulawesi Utara,Minahasa Selatan,,,,APL
