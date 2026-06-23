@@ -1,3 +1,4 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.89211,124.08261,Sedang,N20,2026-06-22,Sulawesi Utara,Bolaang Mongondow,,,,APL
-2.77669,125.41389,Sedang,N20,2026-06-22,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
+-0.95221,121.67356,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HP
+-0.95557,121.67356,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HP
+1.81411,125.12151,Sedang,Suomi NPP,2026-06-23,Sulawesi Utara,Minahasa Utara,,,,APL
