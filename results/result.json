@@ -1,8 +1,21 @@
 {
-  "timestamp": "2026-06-23T07:47:28.252041+00:00",
+  "timestamp": "2026-06-23T07:48:59.304422+00:00",
   "tanggal_pengamatan": "2026-06-23",
-  "total_hotspot": 4,
+  "total_hotspot": 9,
   "hotspots": [
+    {
+      "latitude": 0.67933,
+      "longitude": 122.42296,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-23",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Boalemo",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
     {
       "latitude": 0.67933,
       "longitude": 122.42296,
@@ -30,6 +43,19 @@
       "fungsi": "APL"
     },
     {
+      "latitude": 0.73662,
+      "longitude": 122.62511,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-23",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Gorontalo",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
       "latitude": -1.38164,
       "longitude": 122.48316,
       "Confidence": "Sedang",
@@ -37,6 +63,45 @@
       "Tanggal": "2026-06-23",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.8314,
+      "longitude": 122.17449,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-23",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.49365,
+      "longitude": 120.35754,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-23",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Poso",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.37152,
+      "longitude": 120.32204,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-23",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Poso",
       "pbph": null,
       "kph": null,
       "provinsi": null,
