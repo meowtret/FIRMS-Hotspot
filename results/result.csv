@@ -1,26 +1,6 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.38188,122.479,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Banggai,,,,APL
--2.00406,121.43094,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00406,121.43094,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00762,121.43037,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00762,121.43037,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00824,121.43423,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00824,121.43423,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00925,121.4177,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.00925,121.4177,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.01117,121.42974,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.01117,121.42974,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.01344,121.4211,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.01344,121.4211,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.27021,121.76383,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.27021,121.76383,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.76412,122.0339,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.76412,122.0339,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.82551,122.17646,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.82551,122.17646,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.82815,122.17679,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.82815,122.17679,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.83217,122.17994,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
--2.83217,122.17994,Sedang,Suomi NPP,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
-0.85658,123.48643,Sedang,Suomi NPP,2026-06-23,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
-2.77531,125.40388,Sedang,Suomi NPP,2026-06-23,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
+-1.38179,122.47962,Sedang,N20,2026-06-23,Sulawesi Tengah,Banggai,,,,APL
+-2.01009,121.41682,Sedang,N20,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
+-2.01075,121.42107,Sedang,N20,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
+-2.86401,122.1515,Sedang,N20,2026-06-23,Sulawesi Tengah,Morowali,,,,APL
+2.78056,125.41164,Sedang,N20,2026-06-23,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
