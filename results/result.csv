@@ -1,13 +1,8 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--2.83369,122.18047,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.82979,122.1748,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.01057,121.4192,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.00925,121.28189,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.53693,121.19829,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.53693,121.19829,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
--1.53459,121.19877,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.53459,121.19877,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
--1.42088,121.21982,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.41937,121.22027,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.42004,121.21597,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.02001,121.53226,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-2.01418,121.42104,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.01195,121.41939,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-1.54033,121.19889,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
+-1.54033,121.19889,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+-1.53777,121.19628,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
+-1.41448,121.23314,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+-1.41874,121.23213,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
