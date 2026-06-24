@@ -1,8 +1,4 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--2.01418,121.42104,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.01195,121.41939,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.54033,121.19889,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
--1.54033,121.19889,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.53777,121.19628,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
--1.41448,121.23314,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.41874,121.23213,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+0.98339,121.245,Rendah,Aqua,2026-06-24,Sulawesi Tengah,Buol,,,,APL
+1.0197,121.30006,Rendah,Aqua,2026-06-24,Sulawesi Tengah,Buol,,,,APL
+-2.83421,122.17149,Rendah,Aqua,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
