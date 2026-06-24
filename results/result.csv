@@ -1,6 +1,15 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.38035,122.48087,Rendah,Terra,2026-06-24,Sulawesi Tengah,Banggai,,,,APL
--2.01248,121.42197,Sedang,Terra,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.83118,122.17168,Sedang,Terra,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.83243,122.18041,Rendah,Terra,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.87681,122.15892,Rendah,Terra,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+0.63547,122.50653,Sedang,N20,2026-06-24,Gorontalo,Boalemo,,,,APL
+0.77012,122.52531,Sedang,N20,2026-06-24,Gorontalo,Gorontalo,,,,APL
+0.54963,121.65317,Sedang,N20,2026-06-24,Gorontalo,Pohuwato,,,,APL
+-2.8294,122.17415,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.8279,122.17706,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.00853,121.43434,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.01086,121.43443,Sedang,N20,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-1.36446,121.57497,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,CA
+-1.35789,121.5743,Rendah,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,CA
+-1.36488,121.57407,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,CA
+-1.35829,121.57352,Rendah,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,CA
+-1.02153,121.73337,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.01525,121.7314,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.02057,121.73364,Sedang,N20,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
