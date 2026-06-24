@@ -1,40 +1,13 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--0.86117,122.9267,Sedang,N21,2026-06-24,Sulawesi Tengah,Banggai,,,,APL
--0.86117,122.9267,Sedang,N21,2026-06-24,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HL
-0.98816,121.5247,Sedang,N21,2026-06-24,Sulawesi Tengah,Buol,,,,APL
-1.06927,121.72256,Sedang,N21,2026-06-24,Sulawesi Tengah,Buol,,,,APL
-1.02835,121.29558,Sedang,N21,2026-06-24,Sulawesi Tengah,Buol,,,,APL
-1.08043,121.25949,Sedang,N21,2026-06-24,Sulawesi Tengah,Buol,,,,APL
-1.11215,121.28994,Sedang,N21,2026-06-24,Sulawesi Tengah,Buol,,,,APL
--2.87381,122.16363,Rendah,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.86161,122.15469,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.83685,122.16159,Rendah,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.83301,122.16456,Rendah,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.82812,122.17442,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.82691,122.16012,Rendah,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.01003,121.43328,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.0116,121.42298,Rendah,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.01212,121.41955,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.00612,121.43237,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--2.00821,121.41865,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.68922,120.94833,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,PT TRI TUNGGAL EBONI,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.52431,121.60618,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,CA
--1.52101,121.60567,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,CA
--1.47269,121.61246,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,CA
--1.53582,121.19751,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.53582,121.19751,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
--1.31792,121.87034,Sedang,N21,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
--1.90383,120.87821,Sedang,N21,2026-06-24,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.80345,120.77774,Sedang,N21,2026-06-24,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.62821,120.70056,Sedang,N21,2026-06-24,Sulawesi Tengah,Poso,,,,APL
--1.54402,120.38203,Sedang,N21,2026-06-24,Sulawesi Tengah,Poso,,,,APL
--1.81735,120.10284,Sedang,N21,2026-06-24,Sulawesi Tengah,Sigi,,,,APL
--1.30295,121.69853,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.11945,121.56804,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.06746,121.52795,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.01619,121.73129,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.01964,121.53121,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.01634,121.53072,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--0.98072,121.4725,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,APL
--0.51057,121.81521,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,TN
--0.5034,121.81768,Sedang,N21,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,,,TN
+-2.83369,122.18047,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.82979,122.1748,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.01057,121.4192,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-2.00925,121.28189,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-1.53693,121.19829,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-1.53693,121.19829,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
+-1.53459,121.19877,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,,,APL
+-1.53459,121.19877,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Morowali,,KPH Sivia Patuju,Sulawesi Tengah,HPK
+-1.42088,121.21982,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+-1.41937,121.22027,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+-1.42004,121.21597,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+-1.02001,121.53226,Sedang,Suomi NPP,2026-06-24,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
