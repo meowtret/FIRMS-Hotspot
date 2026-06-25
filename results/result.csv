@@ -1,19 +1,27 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.3808,122.47764,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Banggai,,,,APL
--2.00354,121.42881,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.01001,121.42719,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.01087,121.43242,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.00936,121.4313,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.27065,121.76012,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.26569,121.7619,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.82715,122.17439,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.83171,122.1638,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.83258,122.16893,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.8613,122.15049,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.86757,122.14994,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.87524,122.15775,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.8592,122.14953,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.86547,122.1489,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.86622,122.15324,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.87944,122.15597,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
--2.88022,122.16048,Sedang,Suomi NPP,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-1.38189,122.4818,Sedang,N20,2026-06-25,Sulawesi Tengah,Banggai,,,,APL
+-2.0028,121.43406,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.00216,121.43014,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.00711,121.43328,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.00941,121.42024,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.82148,122.15315,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.82552,122.17828,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.82726,122.16321,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.82902,122.17412,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.83193,122.16629,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.8331,122.17361,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.83423,122.18063,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.83259,122.14448,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,KPH Tepe Asa Moroso,Sulawesi Tengah,HPK
+-2.83542,122.16212,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.8488,122.1676,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.85928,122.1549,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.8604,122.16195,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.85936,122.15474,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.86052,122.16176,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.86343,122.15414,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.8675,122.15356,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.87331,122.16345,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.87737,122.16283,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.87679,122.15932,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.88087,122.15875,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
+-2.88029,122.15521,Sedang,N20,2026-06-25,Sulawesi Tengah,Morowali,,,,APL
