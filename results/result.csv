@@ -1,1 +1,14 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+0.54432,122.11989,Sedang,N21,2026-06-26,Gorontalo,Pohuwato,,,,APL
+-1.37953,122.4804,Sedang,N21,2026-06-26,Sulawesi Tengah,Banggai,,,,APL
+-2.01021,121.43157,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,APL
+-2.01185,121.42067,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,APL
+-2.00466,121.43109,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,APL
+-1.49934,121.64183,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,CA
+-1.49985,121.52688,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,CA
+-1.49646,121.64138,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,CA
+-1.49774,121.52693,Sedang,N21,2026-06-26,Sulawesi Tengah,Morowali,,,,CA
+-1.79805,120.74731,Sedang,N21,2026-06-26,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+-1.26935,121.70747,Sedang,N21,2026-06-26,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-1.27079,121.70905,Sedang,N21,2026-06-26,Sulawesi Tengah,Tojo Una-Una,,,,APL
+1.16049,124.58126,Sedang,N21,2026-06-26,Sulawesi Utara,Minahasa Selatan,,,,APL
