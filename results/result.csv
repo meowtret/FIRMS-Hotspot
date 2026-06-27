@@ -1,10 +1,20 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.53736,122.55255,Sedang,N21,2026-06-27,Gorontalo,Boalemo,,,,APL
-0.71283,122.93627,Sedang,N21,2026-06-27,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
--1.38078,122.48013,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
--1.00321,121.85152,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
--0.79907,122.936,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
--0.612,123.02821,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
--2.86505,122.15307,Sedang,N21,2026-06-27,Sulawesi Tengah,Morowali,,,,APL
-0.90261,123.45039,Sedang,N21,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
-3.46077,125.58691,Sedang,N21,2026-06-27,Sulawesi Utara,Kepulauan Sangihe,,,,APL
+0.54148,122.43192,Sedang,Suomi NPP,2026-06-27,Gorontalo,Boalemo,,,,APL
+0.66445,122.88474,Sedang,Suomi NPP,2026-06-27,Gorontalo,Gorontalo,,,,APL
+0.66445,122.88474,Sedang,Suomi NPP,2026-06-27,Gorontalo,Gorontalo,,KPH Wil. VI Gorontalo,Gorontalo,HPT
+0.69868,122.88387,Sedang,Suomi NPP,2026-06-27,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
+0.69931,122.88375,Sedang,Suomi NPP,2026-06-27,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
+0.67962,122.65041,Sedang,Suomi NPP,2026-06-27,Gorontalo,Gorontalo,,,,APL
+0.82529,122.94619,Sedang,Suomi NPP,2026-06-27,Gorontalo,Gorontalo Utara,,KPH Wil. IV Gorontalo Utara,Gorontalo,HPT
+-0.99281,123.26179,Sedang,Suomi NPP,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
+-0.79749,122.93587,Sedang,Suomi NPP,2026-06-27,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
+1.02416,121.55096,Sedang,Suomi NPP,2026-06-27,Sulawesi Tengah,Buol,,,,APL
+1.04748,121.49129,Sedang,Suomi NPP,2026-06-27,Sulawesi Tengah,Buol,,,,APL
+-1.8156,120.76769,Sedang,Suomi NPP,2026-06-27,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+0.80464,123.664,Sedang,Suomi NPP,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,KPH Unit I Bolaang Mongondow dan Bolaang Mongondow Utara,Sulawesi Utara,HPK
+0.8064,123.66087,Sedang,Suomi NPP,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,KPH Unit I Bolaang Mongondow dan Bolaang Mongondow Utara,Sulawesi Utara,HPK
+0.86478,123.48456,Sedang,Suomi NPP,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+0.86879,123.48385,Sedang,Suomi NPP,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+1.18293,124.54917,Sedang,Suomi NPP,2026-06-27,Sulawesi Utara,Minahasa Selatan,,,,APL
+0.48873,122.94875,Sedang,Suomi NPP,2026-06-27,,,,,,APL
+0.48971,122.94952,Sedang,Suomi NPP,2026-06-27,,,,,,APL
