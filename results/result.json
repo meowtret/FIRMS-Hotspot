@@ -1,6 +1,124 @@
 {
-  "timestamp": "2026-06-27T02:15:32.558632+00:00",
+  "timestamp": "2026-06-27T06:22:03.622873+00:00",
   "tanggal_pengamatan": "2026-06-27",
-  "total_hotspot": 0,
-  "hotspots": []
+  "total_hotspot": 9,
+  "hotspots": [
+    {
+      "latitude": 0.53736,
+      "longitude": 122.55255,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Boalemo",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.71283,
+      "longitude": 122.93627,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Gorontalo",
+      "pbph": "PT GORONTALO CITRA LESTARI",
+      "kph": "KPH Wil. VI Gorontalo",
+      "provinsi": "Gorontalo",
+      "fungsi": "HPT"
+    },
+    {
+      "latitude": -1.38078,
+      "longitude": 122.48013,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.00321,
+      "longitude": 121.85152,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -0.79907,
+      "longitude": 122.936,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": "KPH Balantak",
+      "provinsi": "Sulawesi Tengah",
+      "fungsi": "HPT"
+    },
+    {
+      "latitude": -0.612,
+      "longitude": 123.02821,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.86505,
+      "longitude": 122.15307,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.90261,
+      "longitude": 123.45039,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Bolaang Mongondow Utara",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 3.46077,
+      "longitude": 125.58691,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-27",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Kepulauan Sangihe",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }

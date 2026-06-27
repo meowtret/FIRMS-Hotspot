@@ -1,1 +1,10 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+0.53736,122.55255,Sedang,N21,2026-06-27,Gorontalo,Boalemo,,,,APL
+0.71283,122.93627,Sedang,N21,2026-06-27,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
+-1.38078,122.48013,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
+-1.00321,121.85152,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
+-0.79907,122.936,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
+-0.612,123.02821,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
+-2.86505,122.15307,Sedang,N21,2026-06-27,Sulawesi Tengah,Morowali,,,,APL
+0.90261,123.45039,Sedang,N21,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+3.46077,125.58691,Sedang,N21,2026-06-27,Sulawesi Utara,Kepulauan Sangihe,,,,APL
