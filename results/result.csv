@@ -1,9 +1,6 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--1.37988,122.48185,Sedang,N21,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
--0.78614,119.89558,Sedang,N21,2026-06-27,Sulawesi Tengah,Palu,,,,APL
-0.5539,120.3555,Sedang,N21,2026-06-27,Sulawesi Tengah,Parigi Moutong,,KPH Dampelas Tinombo,Sulawesi Tengah,HPT
-0.55839,120.35371,Sedang,N21,2026-06-27,Sulawesi Tengah,Parigi Moutong,,KPH Dampelas Tinombo,Sulawesi Tengah,HPT
--1.81047,120.76607,Sedang,N21,2026-06-27,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.30922,119.90939,Sedang,N21,2026-06-27,Sulawesi Tengah,Sigi,,KPH Kulawi,Sulawesi Tengah,HL
-0.86494,120.68245,Sedang,N21,2026-06-27,Sulawesi Tengah,Toli-Toli,,,,APL
-0.87071,123.48808,Sedang,N21,2026-06-27,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+-1.38071,122.47847,Rendah,Aqua,2026-06-27,Sulawesi Tengah,Banggai,,,,APL
+-0.66821,123.06107,Sedang,Aqua,2026-06-27,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HPT
+-1.81725,120.76701,Sedang,Aqua,2026-06-27,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+0.85978,120.67991,Rendah,Aqua,2026-06-27,Sulawesi Tengah,Toli-Toli,,,,APL
+1.30845,120.85016,Rendah,Aqua,2026-06-27,Sulawesi Tengah,Toli-Toli,,,,APL
