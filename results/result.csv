@@ -1,8 +1,3 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.95146,121.48116,Sedang,N20,2026-06-28,Sulawesi Tengah,Buol,,,,APL
-0.5861,120.39839,Sedang,N20,2026-06-28,Sulawesi Tengah,Parigi Moutong,,KPH Dampelas Tinombo,Sulawesi Tengah,HPT
--1.39171,121.56756,Sedang,N20,2026-06-28,Sulawesi Tengah,Tojo Una-Una,,,,CA
--1.1264,121.44068,Sedang,N20,2026-06-28,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.07705,121.44758,Sedang,N20,2026-06-28,Sulawesi Tengah,Tojo Una-Una,,,,APL
-0.70272,120.63206,Sedang,N20,2026-06-28,Sulawesi Tengah,Toli-Toli,,,,APL
-1.14808,124.59545,Sedang,N20,2026-06-28,Sulawesi Utara,Minahasa Selatan,,,,APL
+0.69408,122.90143,Tinggi,N21,2026-06-28,Gorontalo,Gorontalo,PT GORONTALO CITRA LESTARI,KPH Wil. VI Gorontalo,Gorontalo,HPT
+-1.72734,120.64006,Sedang,N21,2026-06-28,Sulawesi Tengah,Poso,,,,APL
