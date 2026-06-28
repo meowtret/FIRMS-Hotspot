@@ -1,6 +1,98 @@
 {
-  "timestamp": "2026-06-27T21:57:30.413072+00:00",
+  "timestamp": "2026-06-28T07:38:04.755544+00:00",
   "tanggal_pengamatan": "2026-06-28",
-  "total_hotspot": 0,
-  "hotspots": []
+  "total_hotspot": 7,
+  "hotspots": [
+    {
+      "latitude": 0.95146,
+      "longitude": 121.48116,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Buol",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.5861,
+      "longitude": 120.39839,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Parigi Moutong",
+      "pbph": null,
+      "kph": "KPH Dampelas Tinombo",
+      "provinsi": "Sulawesi Tengah",
+      "fungsi": "HPT"
+    },
+    {
+      "latitude": -1.39171,
+      "longitude": 121.56756,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Tojo Una-Una",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "CA"
+    },
+    {
+      "latitude": -1.1264,
+      "longitude": 121.44068,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Tojo Una-Una",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.07705,
+      "longitude": 121.44758,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Tojo Una-Una",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 0.70272,
+      "longitude": 120.63206,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Toli-Toli",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 1.14808,
+      "longitude": 124.59545,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N20",
+      "Tanggal": "2026-06-28",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Minahasa Selatan",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }
