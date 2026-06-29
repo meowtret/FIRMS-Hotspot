@@ -1,46 +1,6 @@
 {
-  "timestamp": "2026-06-29T07:24:26.081650+00:00",
+  "timestamp": "2026-06-29T08:02:04.703523+00:00",
   "tanggal_pengamatan": "2026-06-29",
-  "total_hotspot": 3,
-  "hotspots": [
-    {
-      "latitude": 1.06734,
-      "longitude": 121.53291,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-29",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.27242,
-      "longitude": 121.42793,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-29",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 0.56544,
-      "longitude": 120.36416,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N21",
-      "Tanggal": "2026-06-29",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Parigi Moutong",
-      "pbph": null,
-      "kph": "KPH Dampelas Tinombo",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HPT"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
