@@ -1,6 +1,46 @@
 {
-  "timestamp": "2026-06-29T14:30:36.417491+00:00",
-  "tanggal_pengamatan": "2026-06-29",
-  "total_hotspot": 0,
-  "hotspots": []
+  "timestamp": "2026-06-29T18:57:02.099771+00:00",
+  "tanggal_pengamatan": "2026-06-30",
+  "total_hotspot": 3,
+  "hotspots": [
+    {
+      "latitude": -1.37821,
+      "longitude": 122.47703,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-29",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -1.37902,
+      "longitude": 122.48203,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-29",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Banggai",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 2.78,
+      "longitude": 125.38935,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-06-29",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Siau Tagulandang Biaro",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }
