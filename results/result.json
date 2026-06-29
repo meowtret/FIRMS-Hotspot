@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-29T07:21:29.950888+00:00",
+  "timestamp": "2026-06-29T07:22:59.630899+00:00",
   "tanggal_pengamatan": "2026-06-29",
-  "total_hotspot": 5,
+  "total_hotspot": 3,
   "hotspots": [
     {
-      "latitude": 1.06559,
-      "longitude": 121.53065,
+      "latitude": 1.06734,
+      "longitude": 121.53291,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-29",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Buol",
@@ -17,10 +17,10 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 1.08047,
-      "longitude": 121.25835,
+      "latitude": 1.27242,
+      "longitude": 121.42793,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-29",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Buol",
@@ -30,43 +30,17 @@
       "fungsi": "APL"
     },
     {
-      "latitude": 1.2738,
-      "longitude": 121.42883,
+      "latitude": 0.56544,
+      "longitude": 120.36416,
       "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
+      "Sumber_Satelit": "N21",
       "Tanggal": "2026-06-29",
       "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
+      "Kabupaten_Final": "Parigi Moutong",
       "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.26957,
-      "longitude": 121.43071,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-06-29",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Buol",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": -2.83036,
-      "longitude": 122.17558,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "N20",
-      "Tanggal": "2026-06-29",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
+      "kph": "KPH Dampelas Tinombo",
+      "provinsi": "Sulawesi Tengah",
+      "fungsi": "HPT"
     }
   ]
 }
