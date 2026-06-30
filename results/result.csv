@@ -1,20 +1,15 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.57027,122.51702,Sedang,N21,2026-06-30,Gorontalo,Boalemo,,KPH Wil. V Boalemo,Gorontalo,HP
-0.587,122.67213,Sedang,N21,2026-06-30,Gorontalo,Gorontalo,,KPH Wil. VI Gorontalo,Gorontalo,HPT
--1.38134,122.48037,Sedang,N21,2026-06-30,Sulawesi Tengah,Banggai,,,,APL
-1.26095,121.43653,Sedang,N21,2026-06-30,Sulawesi Tengah,Buol,,KPH Pogogul,Sulawesi Tengah,HP
--2.87345,122.16184,Sedang,N21,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
--2.85114,122.16658,Rendah,N21,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
--2.82829,122.17505,Sedang,N21,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
--2.01195,121.41924,Sedang,N21,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
--2.00832,121.41875,Sedang,N21,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
--1.25259,121.60442,Sedang,N21,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.10178,121.4753,Sedang,N21,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.09529,121.44559,Sedang,N21,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.03876,121.48695,Sedang,N21,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,,,APL
--1.0389,121.46221,Sedang,N21,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.0389,121.46221,Sedang,N21,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,,,APL
-0.87809,123.64715,Sedang,N21,2026-06-30,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
-1.13957,124.60622,Sedang,N21,2026-06-30,Sulawesi Utara,Minahasa Selatan,,,,APL
-1.19432,124.54064,Sedang,N21,2026-06-30,Sulawesi Utara,Minahasa Selatan,,,,APL
-1.19764,124.54017,Sedang,N21,2026-06-30,Sulawesi Utara,Minahasa Selatan,,,,APL
+-1.383,122.48244,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Banggai,,,,APL
+-2.8313,122.1747,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
+-2.83204,122.17004,Rendah,Suomi NPP,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
+-2.01169,121.4197,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Morowali,,,,APL
+-0.66348,119.87167,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Palu,,,,APL
+-0.66348,119.87167,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Palu,,,,APL
+-1.81606,120.09949,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Sigi,,,,APL
+-1.81606,120.09949,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Sigi,,,,APL
+-1.8148,120.0991,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Sigi,,,,APL
+-1.8148,120.0991,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Sigi,,,,APL
+-1.04051,121.48841,Sedang,Suomi NPP,2026-06-30,Sulawesi Tengah,Tojo Una-Una,,,,APL
+1.14059,124.60606,Sedang,Suomi NPP,2026-06-30,Sulawesi Utara,Minahasa Selatan,,,,APL
+1.14056,124.6031,Sedang,Suomi NPP,2026-06-30,Sulawesi Utara,Minahasa Selatan,,,,APL
+1.19415,124.54007,Sedang,Suomi NPP,2026-06-30,Sulawesi Utara,Minahasa Selatan,,,,APL
