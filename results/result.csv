@@ -1,10 +1,22 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.91446,122.65943,Sedang,N20,2026-07-02,Gorontalo,Gorontalo Utara,,,,APL
-0.91614,122.65774,Sedang,N20,2026-07-02,Gorontalo,Gorontalo Utara,,,,APL
--1.38144,122.47914,Sedang,N20,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
--1.38254,122.48006,Sedang,N20,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
--2.26662,121.75903,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.82563,122.17522,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.83146,122.16811,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.82646,122.17294,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.83443,122.17844,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+0.91249,122.66031,Sedang,N21,2026-07-02,Gorontalo,Gorontalo Utara,,,,APL
+0.90917,122.65977,Sedang,N21,2026-07-02,Gorontalo,Gorontalo Utara,,,,APL
+0.66582,121.88616,Sedang,N21,2026-07-02,Gorontalo,Pohuwato,,,,APL
+0.5688,121.98613,Sedang,N21,2026-07-02,Gorontalo,Pohuwato,,KPH Wil. III Pahuwato,Gorontalo,HPT
+-1.38075,122.47916,Sedang,N21,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
+-1.38129,122.4826,Sedang,N21,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
+-2.26873,121.76044,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.26928,121.76395,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.27316,121.76698,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.8302,122.17418,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.83402,122.17333,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.8351,122.1802,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.85001,122.16736,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.85884,122.15893,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.86268,122.16186,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.8726,122.16036,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.87313,122.1638,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.87644,122.16329,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.87751,122.17016,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.87867,122.15591,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+2.78037,125.40865,Sedang,N21,2026-07-02,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
