@@ -1,9 +1,7 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.91372,122.66126,Sedang,Suomi NPP,2026-07-02,Gorontalo,Gorontalo Utara,,,,APL
-0.90948,122.66058,Sedang,Suomi NPP,2026-07-02,Gorontalo,Gorontalo Utara,,,,APL
--1.37974,122.48273,Sedang,Suomi NPP,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
--1.38409,122.48204,Sedang,Suomi NPP,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
--2.26854,121.76151,Sedang,Suomi NPP,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.82953,122.17275,Sedang,Suomi NPP,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.88102,122.15997,Sedang,Suomi NPP,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
-2.78148,125.41009,Sedang,Suomi NPP,2026-07-02,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
+-1.3837,122.47871,Sedang,N20,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
+-2.00949,121.41699,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.0102,121.42152,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.00871,121.41967,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.00804,121.41519,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.01496,121.41915,Sedang,N20,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
