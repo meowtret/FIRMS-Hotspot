@@ -1,3 +1,8 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--2.00753,121.41537,Sedang,Terra,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.00915,121.42712,Rendah,Terra,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-1.38205,122.47852,Sedang,N21,2026-07-02,Sulawesi Tengah,Banggai,,,,APL
+-2.86784,122.15395,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.86782,122.15319,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.73215,121.99017,Tinggi,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+-2.73284,121.98547,Sedang,N21,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+0.94372,124.55892,Sedang,N21,2026-07-02,Sulawesi Utara,Minahasa Selatan,,,,APL
+2.11591,125.377,Sedang,N21,2026-07-02,Sulawesi Utara,Siau Tagulandang Biaro,,,,APL
