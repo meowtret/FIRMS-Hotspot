@@ -1,26 +1,8 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.53657,122.56594,Sedang,N20,2026-07-03,Gorontalo,Boalemo,,,,APL
-0.91732,122.66781,Sedang,N20,2026-07-03,Gorontalo,Gorontalo Utara,,,,APL
--1.56148,122.09194,Sedang,N20,2026-07-03,Sulawesi Tengah,Banggai,PT BERKAT HUTAN PUSAKA,KPH Toili Baturube,Sulawesi Tengah,HP
--0.94782,123.22083,Sedang,N20,2026-07-03,Sulawesi Tengah,Banggai,,KPH Balantak,Sulawesi Tengah,HP
--0.8636,123.0346,Sedang,N20,2026-07-03,Sulawesi Tengah,Banggai,,,,APL
-1.29847,121.44963,Sedang,N20,2026-07-03,Sulawesi Tengah,Buol,,,,APL
--2.27146,121.76503,Rendah,N20,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
--2.01419,121.4202,Sedang,N20,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
--2.03141,120.8629,Sedang,N20,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
--1.67908,121.22194,Sedang,N20,2026-07-03,Sulawesi Tengah,Morowali,,KPH Tepo Asa Aroa,Sulawesi Tengah,HPT
--1.67947,121.2243,Sedang,N20,2026-07-03,Sulawesi Tengah,Morowali,,KPH Tepo Asa Aroa,Sulawesi Tengah,HPT
--1.51856,121.19948,Sedang,N20,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
--1.51462,121.1988,Sedang,N20,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
-0.52978,121.03515,Sedang,N20,2026-07-03,Sulawesi Tengah,Parigi Moutong,,KPH Dampelas Tinombo,Sulawesi Tengah,HPT
-0.57092,120.357,Sedang,N20,2026-07-03,Sulawesi Tengah,Parigi Moutong,,,,CA
--1.34413,121.63433,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,,,CA
--1.34477,121.63011,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,,,CA
--1.32231,121.67504,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.03587,121.75435,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.03211,121.75357,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
--1.07417,121.40408,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPK
--1.00603,121.77203,Sedang,N20,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
-0.62769,124.09499,Sedang,N20,2026-07-03,Sulawesi Utara,Bolaang Mongondow,,,,APL
-0.87237,123.15572,Sedang,N20,2026-07-03,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
-0.87237,123.15572,Sedang,N20,2026-07-03,Sulawesi Utara,Bolaang Mongondow Utara,,,,APL
+0.5669,122.89082,Sedang,N21,2026-07-03,Gorontalo,Gorontalo,,,,APL
+-1.383,122.48212,Sedang,N21,2026-07-03,Sulawesi Tengah,Banggai,,,,APL
+1.29846,121.452,Sedang,N21,2026-07-03,Sulawesi Tengah,Buol,,,,APL
+-2.01032,121.42145,Sedang,N21,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
+-1.66954,120.6408,Sedang,N21,2026-07-03,Sulawesi Tengah,Poso,,,,APL
+-1.6721,120.638,Sedang,N21,2026-07-03,Sulawesi Tengah,Poso,,,,APL
+-1.48137,120.35011,Sedang,N21,2026-07-03,Sulawesi Tengah,Poso,,,,APL
