@@ -1,6 +1,46 @@
 {
-  "timestamp": "2026-07-03T09:00:26.263502+00:00",
-  "tanggal_pengamatan": "2026-07-03",
-  "total_hotspot": 0,
-  "hotspots": []
+  "timestamp": "2026-07-03T18:32:02.030838+00:00",
+  "tanggal_pengamatan": "2026-07-04",
+  "total_hotspot": 3,
+  "hotspots": [
+    {
+      "latitude": 0.92249,
+      "longitude": 122.66297,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-07-03",
+      "Provinsi_Final": "Gorontalo",
+      "Kabupaten_Final": "Gorontalo Utara",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 2.78184,
+      "longitude": 125.40607,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-07-03",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Siau Tagulandang Biaro",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 2.77461,
+      "longitude": 125.40482,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-07-03",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Siau Tagulandang Biaro",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    }
+  ]
 }
