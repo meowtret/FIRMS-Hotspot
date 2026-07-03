@@ -1,3 +1,8 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
--2.83737,122.1662,Rendah,Aqua,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
--2.83929,122.17919,Rendah,Aqua,2026-07-02,Sulawesi Tengah,Morowali,,,,APL
+1.2991,121.451,Sedang,Suomi NPP,2026-07-03,Sulawesi Tengah,Buol,,,,APL
+-2.01274,121.42281,Sedang,Suomi NPP,2026-07-03,Sulawesi Tengah,Morowali,,,,APL
+-1.67254,120.6429,Sedang,Suomi NPP,2026-07-03,Sulawesi Tengah,Poso,,,,APL
+-1.32459,121.67705,Sedang,Suomi NPP,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.31878,121.67594,Sedang,Suomi NPP,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.32022,121.67655,Sedang,Suomi NPP,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.03497,121.75703,Tinggi,Suomi NPP,2026-07-03,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
