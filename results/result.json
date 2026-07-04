@@ -1,20 +1,6 @@
 {
-  "timestamp": "2026-07-04T08:06:37.719204+00:00",
+  "timestamp": "2026-07-04T10:34:03.945997+00:00",
   "tanggal_pengamatan": "2026-07-04",
-  "total_hotspot": 1,
-  "hotspots": [
-    {
-      "latitude": -1.7168,
-      "longitude": 120.53683,
-      "Confidence": "Sedang",
-      "Sumber_Satelit": "Suomi NPP",
-      "Tanggal": "2026-07-04",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Poso",
-      "pbph": null,
-      "kph": "KPH Sintuwu Maroso",
-      "provinsi": "Sulawesi Tengah",
-      "fungsi": "HL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
