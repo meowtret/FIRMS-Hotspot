@@ -1,4 +1,6 @@
-latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp
-2.78045,125.40979,316.32,0.57,0.43,2026-07-04,1728,N20,Sedang,2.0NRT,287.09,3.14
--0.67162,119.84291,321.67,0.38,0.36,2026-07-04,1730,N20,Sedang,2.0NRT,289.19,2.12
--0.67216,119.84634,315.79,0.38,0.36,2026-07-04,1730,N20,Sedang,2.0NRT,287.94,2.12
+latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
+-2.58194,121.37241,342.73,1.18,1.08,2026-07-04,1915,Aqua,Tinggi,6.1NRT,288.51,61.85
+-2.5835,121.38245,341.27,1.18,1.08,2026-07-04,1915,Aqua,Tinggi,6.1NRT,289.87,57.88
+-2.59136,121.37081,300.56,1.18,1.08,2026-07-04,1915,Aqua,Rendah,6.1NRT,287.86,5.61
+-2.59293,121.38098,301.14,1.18,1.08,2026-07-04,1915,Aqua,Rendah,6.1NRT,289.55,5.33
+-2.88003,122.16312,307.41,1.08,1.04,2026-07-04,1915,Aqua,Sedang,6.1NRT,293.44,7.55
