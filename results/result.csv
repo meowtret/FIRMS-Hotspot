@@ -1,2 +1,30 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.85206,122.92811,Sedang,N20,2026-07-05,Gorontalo,Gorontalo Utara,,,,APL
+0.61163,122.49163,Sedang,N21,2026-07-05,Gorontalo,Boalemo,,,,APL
+0.59091,122.67039,Sedang,N21,2026-07-05,Gorontalo,Gorontalo,,,,APL
+0.69664,123.07365,Sedang,N21,2026-07-05,Gorontalo,Gorontalo,,,,APL
+0.81711,122.79365,Sedang,N21,2026-07-05,Gorontalo,Gorontalo Utara,,,,APL
+0.88252,122.70914,Sedang,N21,2026-07-05,Gorontalo,Gorontalo Utara,,,,APL
+0.917,121.41701,Sedang,N21,2026-07-05,Sulawesi Tengah,Buol,,KPH Pogogul,Sulawesi Tengah,HP
+1.03161,121.47726,Sedang,N21,2026-07-05,Sulawesi Tengah,Buol,,,,APL
+1.0757,121.38844,Sedang,N21,2026-07-05,Sulawesi Tengah,Buol,,,,APL
+-2.10487,121.52007,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-2.00944,121.43159,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-2.01107,121.42078,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-2.00768,121.4203,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-1.86694,121.54217,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,CA
+-1.86304,121.54523,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,CA
+-1.93459,120.99805,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-1.93444,120.99822,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-1.64545,121.26128,Rendah,N21,2026-07-05,Sulawesi Tengah,Morowali,,,,APL
+-1.39521,121.6967,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,PT BINA BALANTAK RAYA,KPH Toili Baturube,Sulawesi Tengah,HPT
+-1.40419,121.63705,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,,KPH Toili Baturube,Sulawesi Tengah,HPT
+-1.39262,121.6955,Sedang,N21,2026-07-05,Sulawesi Tengah,Morowali,PT BINA BALANTAK RAYA,KPH Toili Baturube,Sulawesi Tengah,HPT
+0.31599,120.16237,Sedang,N21,2026-07-05,Sulawesi Tengah,Parigi Moutong,,KPH Dampelas Tinombo,Sulawesi Tengah,HP
+0.52768,120.93402,Sedang,N21,2026-07-05,Sulawesi Tengah,Parigi Moutong,,,,APL
+-1.50584,120.32724,Sedang,N21,2026-07-05,Sulawesi Tengah,Poso,,,,APL
+-0.95411,119.9748,Sedang,N21,2026-07-05,Sulawesi Tengah,Sigi,,,,TAHURA
+-1.35905,121.57862,Sedang,N21,2026-07-05,Sulawesi Tengah,Tojo Una-Una,,,,CA
+-1.02762,121.52334,Sedang,N21,2026-07-05,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPT
+-1.02559,121.46882,Sedang,N21,2026-07-05,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HPK
+-0.9733,121.72404,Sedang,N21,2026-07-05,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-0.95067,121.67375,Sedang,N21,2026-07-05,Sulawesi Tengah,Tojo Una-Una,,KPH Sivia Patuju,Sulawesi Tengah,HP
