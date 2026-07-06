@@ -1,2 +1,4 @@
 latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
--2.58105,121.3792,322.22,2.57,1.54,2026-07-05,1951,Aqua,Tinggi,6.1NRT,289.88,81.82
+-2.58023,121.36447,315.15,2.29,1.47,2026-07-06,0013,Terra,Sedang,6.1NRT,291.63,37
+-2.58295,121.38348,328.28,2.29,1.46,2026-07-06,0013,Terra,Tinggi,6.1NRT,292.6,80.58
+-2.58208,121.37691,331.87,2.29,1.46,2026-07-06,0013,Terra,Tinggi,6.1NRT,292.79,96.48
