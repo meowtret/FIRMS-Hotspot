@@ -1,1 +1,19 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+1.15977,121.39297,Sedang,N21,2026-07-06,Sulawesi Tengah,Buol,,,,APL
+-2.87577,122.16304,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.87583,122.16351,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.8311,122.17282,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.8317,122.16882,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.8263,122.17595,Rendah,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.75451,121.96201,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,KPH Tepe Asa Moroso,Sulawesi Tengah,HPK
+-2.00935,121.43455,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.01121,121.42181,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.00974,121.43165,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.01174,121.41869,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.00731,121.4182,Rendah,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-1.67178,121.28367,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-1.78615,120.77937,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+-1.78687,120.77448,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+-1.78649,120.77537,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+-1.5105,120.64446,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HP
+0.77357,123.62402,Sedang,N21,2026-07-06,Sulawesi Utara,Bolaang Mongondow Utara,,KPH Unit I Bolaang Mongondow dan Bolaang Mongondow Utara,Sulawesi Utara,HPK
