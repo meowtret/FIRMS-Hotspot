@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-06T13:47:34.413692+00:00",
-  "tanggal_pengamatan": "2026-07-06",
+  "timestamp": "2026-07-06T19:02:11.474470+00:00",
+  "tanggal_pengamatan": "2026-07-07",
   "total_hotspot": 1,
   "hotspots": [
     {
-      "latitude": -2.01038,
-      "longitude": 121.42889,
-      "Confidence": "Rendah",
-      "Sumber_Satelit": "Terra",
+      "latitude": -2.82895,
+      "longitude": 122.17147,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "Suomi NPP",
       "Tanggal": "2026-07-06",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
