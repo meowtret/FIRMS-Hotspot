@@ -1,19 +1,24 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-1.15977,121.39297,Sedang,N21,2026-07-06,Sulawesi Tengah,Buol,,,,APL
--2.87577,122.16304,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.87583,122.16351,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.8311,122.17282,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.8317,122.16882,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.8263,122.17595,Rendah,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.75451,121.96201,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,KPH Tepe Asa Moroso,Sulawesi Tengah,HPK
--2.00935,121.43455,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.01121,121.42181,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.00974,121.43165,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.01174,121.41869,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--2.00731,121.4182,Rendah,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--1.67178,121.28367,Sedang,N21,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
--1.78615,120.77937,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.78687,120.77448,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.78649,120.77537,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.5105,120.64446,Sedang,N21,2026-07-06,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HP
-0.77357,123.62402,Sedang,N21,2026-07-06,Sulawesi Utara,Bolaang Mongondow Utara,,KPH Unit I Bolaang Mongondow dan Bolaang Mongondow Utara,Sulawesi Utara,HPK
+0.50543,122.25417,Sedang,Suomi NPP,2026-07-06,Gorontalo,Boalemo,,,,APL
+0.71815,122.43343,Sedang,Suomi NPP,2026-07-06,Gorontalo,Boalemo,,,,APL
+0.49617,122.85942,Sedang,Suomi NPP,2026-07-06,Gorontalo,Gorontalo,,,,APL
+0.49963,122.85867,Sedang,Suomi NPP,2026-07-06,Gorontalo,Gorontalo,,,,APL
+0.49906,122.85494,Sedang,Suomi NPP,2026-07-06,Gorontalo,Gorontalo,,,,APL
+0.88259,122.70808,Sedang,Suomi NPP,2026-07-06,Gorontalo,Gorontalo Utara,,,,APL
+0.92586,122.65462,Sedang,Suomi NPP,2026-07-06,Gorontalo,Gorontalo Utara,,,,APL
+1.03497,121.49066,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Buol,,,,APL
+-2.8975,122.20345,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.82782,122.17431,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.82263,122.14125,Rendah,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.75806,121.99168,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.01129,121.43392,Rendah,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.00894,121.43268,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-2.00772,121.41835,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-1.99639,120.86971,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+-1.67282,121.28483,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Morowali,,,,APL
+0.31662,120.2129,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Parigi Moutong,,,,APL
+0.62316,120.3805,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Parigi Moutong,,,,CA
+-1.98279,120.84994,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Poso,,,,APL
+-1.78739,120.77741,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+-1.56381,120.73816,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Poso,,,,APL
+-1.58129,120.33398,Sedang,Suomi NPP,2026-07-06,Sulawesi Tengah,Poso,,,,APL
