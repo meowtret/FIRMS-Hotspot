@@ -1,14 +1,18 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.56198,122.50084,Sedang,Suomi NPP,2026-07-07,Gorontalo,Boalemo,,,,APL
-0.633,122.63228,Sedang,Suomi NPP,2026-07-07,Gorontalo,Gorontalo,,,,APL
-0.6324,122.62829,Sedang,Suomi NPP,2026-07-07,Gorontalo,Gorontalo,,,,APL
-0.82769,122.7279,Sedang,Suomi NPP,2026-07-07,Gorontalo,Gorontalo Utara,,,,APL
-0.31318,119.90034,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Donggala,,,,APL
--2.82847,122.1742,Rendah,Suomi NPP,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
--2.00911,121.43508,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
--2.01127,121.42043,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
--2.00921,121.43322,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
--2.01148,121.41847,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
--2.00756,121.41796,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
--1.87824,120.88382,Sedang,Suomi NPP,2026-07-07,Sulawesi Tengah,Poso,,,,APL
-0.87474,124.10817,Rendah,Suomi NPP,2026-07-07,Sulawesi Utara,Bolaang Mongondow,,,,APL
+0.46829,121.83952,Sedang,N20,2026-07-07,Gorontalo,Pohuwato,,,,APL
+0.46813,121.83947,Sedang,N20,2026-07-07,Gorontalo,Pohuwato,,,,APL
+1.03817,121.42955,Sedang,N20,2026-07-07,Sulawesi Tengah,Buol,,,,APL
+-2.89393,121.82022,Sedang,N20,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.8286,122.17828,Rendah,N20,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.82918,122.17446,Sedang,N20,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.01009,121.41979,Sedang,N20,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-1.59278,121.17477,Sedang,N20,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.0766,120.74992,Sedang,N20,2026-07-07,Sulawesi Tengah,Poso,,,,APL
+-1.8759,120.88189,Sedang,N20,2026-07-07,Sulawesi Tengah,Poso,,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
+-1.8759,120.88189,Sedang,N20,2026-07-07,Sulawesi Tengah,Poso,,,,APL
+-1.84946,120.52437,Sedang,N20,2026-07-07,Sulawesi Tengah,Poso,,,,APL
+-1.53232,120.40196,Sedang,N20,2026-07-07,Sulawesi Tengah,Poso,,,,APL
+-1.35924,121.18455,Sedang,N20,2026-07-07,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-1.08599,121.46244,Sedang,N20,2026-07-07,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-1.06188,121.48212,Sedang,N20,2026-07-07,Sulawesi Tengah,Tojo Una-Una,,,,APL
+-0.97202,121.47572,Sedang,N20,2026-07-07,Sulawesi Tengah,Tojo Una-Una,,,,APL
