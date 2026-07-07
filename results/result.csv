@@ -1,1 +1,13 @@
-
+latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
+-0.75529,123.00474,Sedang,N21,2026-07-07,Sulawesi Tengah,Banggai,,,,APL
+-1.41767,123.46004,Sedang,N21,2026-07-07,Sulawesi Tengah,Banggai Kepulauan,,,,APL
+-2.89405,121.81925,Sedang,N21,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.82957,122.17776,Sedang,N21,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.83017,122.17365,Sedang,N21,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.76597,121.96514,Sedang,N21,2026-07-07,Sulawesi Tengah,Morowali,,KPH Tepe Asa Moroso,Sulawesi Tengah,HPK
+-2.18558,121.47281,Tinggi,N21,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-2.01073,121.42155,Sedang,N21,2026-07-07,Sulawesi Tengah,Morowali,,,,APL
+-1.49845,121.63455,Sedang,N21,2026-07-07,Sulawesi Tengah,Morowali,,,,CA
+-2.04505,120.71918,Sedang,N21,2026-07-07,Sulawesi Tengah,Poso,,,,APL
+-1.40477,121.23125,Sedang,N21,2026-07-07,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
+-0.54699,121.66445,Sedang,N21,2026-07-07,Sulawesi Tengah,Tojo Una-Una,,,,APL
