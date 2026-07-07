@@ -1,2 +1,4 @@
 latitude,longitude,brightness,scan,track,acq_date,acq_time,satellite,confidence,version,bright_t31,frp
--2.83253,122.16957,301.7,2.69,1.57,2026-07-06,1851,Aqua,Rendah,6.1NRT,291.44,19.76
+-2.57653,121.38647,315.37,1.35,1.15,2026-07-07,0054,Terra,Rendah,6.1NRT,287.54,14.92
+-2.58496,121.37329,331.1,1.35,1.15,2026-07-07,0054,Terra,Tinggi,6.1NRT,287.7,40.12
+-2.7373,121.65324,308.32,1.41,1.18,2026-07-07,0054,Terra,Rendah,6.1NRT,294.16,8.91
