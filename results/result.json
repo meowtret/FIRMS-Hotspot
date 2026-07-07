@@ -1,33 +1,6 @@
 {
-  "timestamp": "2026-07-07T08:29:38.568309+00:00",
-  "tanggal_pengamatan": "2026-07-07",
-  "total_hotspot": 2,
-  "hotspots": [
-    {
-      "latitude": -2.01532,
-      "longitude": 121.42324,
-      "Confidence": "Rendah",
-      "Sumber_Satelit": "Aqua",
-      "Tanggal": "2026-07-07",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    },
-    {
-      "latitude": 1.43099,
-      "longitude": 124.85472,
-      "Confidence": "Rendah",
-      "Sumber_Satelit": "Aqua",
-      "Tanggal": "2026-07-07",
-      "Provinsi_Final": "Sulawesi Utara",
-      "Kabupaten_Final": "Minahasa",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "timestamp": "2026-07-07T16:24:06.597671+00:00",
+  "tanggal_pengamatan": "2026-07-08",
+  "total_hotspot": 0,
+  "hotspots": []
 }
