@@ -1,20 +1,6 @@
 {
-  "timestamp": "2026-07-06T20:52:28.377354+00:00",
+  "timestamp": "2026-07-07T03:43:02.115190+00:00",
   "tanggal_pengamatan": "2026-07-07",
-  "total_hotspot": 1,
-  "hotspots": [
-    {
-      "latitude": -2.83253,
-      "longitude": 122.16957,
-      "Confidence": "Rendah",
-      "Sumber_Satelit": "Aqua",
-      "Tanggal": "2026-07-06",
-      "Provinsi_Final": "Sulawesi Tengah",
-      "Kabupaten_Final": "Morowali",
-      "pbph": null,
-      "kph": null,
-      "provinsi": null,
-      "fungsi": "APL"
-    }
-  ]
+  "total_hotspot": 0,
+  "hotspots": []
 }
