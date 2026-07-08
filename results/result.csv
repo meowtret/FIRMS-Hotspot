@@ -1,15 +1,6 @@
 latitude,longitude,Confidence,Sumber_Satelit,Tanggal,Provinsi_Final,Kabupaten_Final,pbph,kph,provinsi,fungsi
-0.57737,122.46084,Sedang,N20,2026-07-08,Gorontalo,Boalemo,,,,APL
-0.67613,122.52217,Sedang,N20,2026-07-08,Gorontalo,Boalemo,,,,APL
--0.7891,119.73945,Sedang,N20,2026-07-08,Sulawesi Tengah,Donggala,,KPH Banawa Lalundu,Sulawesi Tengah,HL
--2.01164,121.43147,Sedang,N20,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
--2.01348,121.41922,Sedang,N20,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
--2.00989,121.41872,Sedang,N20,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
--1.90225,120.79109,Sedang,N20,2026-07-08,Sulawesi Tengah,Poso,,,,APL
--1.78791,120.78157,Sedang,N20,2026-07-08,Sulawesi Tengah,Poso,PT RIU MAMBA KARAYA SENTOSA,KPH Sintuwu Maroso,Sulawesi Tengah,HPT
--1.49586,120.35674,Sedang,N20,2026-07-08,Sulawesi Tengah,Poso,,,,APL
--1.49592,120.3537,Sedang,N20,2026-07-08,Sulawesi Tengah,Poso,,,,APL
--1.43905,120.62297,Sedang,N20,2026-07-08,Sulawesi Tengah,Poso,,,,APL
--1.45708,121.23341,Sedang,N20,2026-07-08,Sulawesi Tengah,Tojo Una-Una,PT WANA RINDANG LESTARI,KPH Sivia Patuju,Sulawesi Tengah,HP
--1.28561,121.6898,Sedang,N20,2026-07-08,Sulawesi Tengah,Tojo Una-Una,,,,APL
-0.97978,124.5166,Sedang,N20,2026-07-08,Sulawesi Utara,Minahasa Selatan,,"KPH UNIT V MINAHASA, MINAHASA TENGGARA, MINAHASA SELATAN DAN TOMOHON",Sulawesi Utara,HP
+-2.88794,121.76183,Sedang,N21,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
+-2.88764,121.76456,Sedang,N21,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
+-2.88821,121.76105,Sedang,N21,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
+-2.0051,120.88676,Sedang,N21,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
+-2.00192,120.87287,Tinggi,N21,2026-07-08,Sulawesi Tengah,Morowali,,,,APL
