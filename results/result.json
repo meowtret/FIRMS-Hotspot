@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-08T08:02:04.806781+00:00",
-  "tanggal_pengamatan": "2026-07-08",
-  "total_hotspot": 5,
+  "timestamp": "2026-07-08T18:34:05.297110+00:00",
+  "tanggal_pengamatan": "2026-07-09",
+  "total_hotspot": 7,
   "hotspots": [
     {
-      "latitude": -2.88794,
-      "longitude": 121.76183,
+      "latitude": -2.86226,
+      "longitude": 122.15521,
       "Confidence": "Sedang",
       "Sumber_Satelit": "N21",
       "Tanggal": "2026-07-08",
@@ -17,8 +17,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.88764,
-      "longitude": 121.76456,
+      "latitude": -2.86531,
+      "longitude": 122.15038,
       "Confidence": "Sedang",
       "Sumber_Satelit": "N21",
       "Tanggal": "2026-07-08",
@@ -30,8 +30,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.88821,
-      "longitude": 121.76105,
+      "latitude": -2.87477,
+      "longitude": 122.16228,
       "Confidence": "Sedang",
       "Sumber_Satelit": "N21",
       "Tanggal": "2026-07-08",
@@ -43,8 +43,8 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.0051,
-      "longitude": 120.88676,
+      "latitude": -2.8778,
+      "longitude": 122.15739,
       "Confidence": "Sedang",
       "Sumber_Satelit": "N21",
       "Tanggal": "2026-07-08",
@@ -56,13 +56,39 @@
       "fungsi": "APL"
     },
     {
-      "latitude": -2.00192,
-      "longitude": 120.87287,
-      "Confidence": "Tinggi",
+      "latitude": -2.87344,
+      "longitude": 122.16335,
+      "Confidence": "Sedang",
       "Sumber_Satelit": "N21",
       "Tanggal": "2026-07-08",
       "Provinsi_Final": "Sulawesi Tengah",
       "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": -2.88017,
+      "longitude": 122.15792,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-07-08",
+      "Provinsi_Final": "Sulawesi Tengah",
+      "Kabupaten_Final": "Morowali",
+      "pbph": null,
+      "kph": null,
+      "provinsi": null,
+      "fungsi": "APL"
+    },
+    {
+      "latitude": 1.47305,
+      "longitude": 125.13012,
+      "Confidence": "Sedang",
+      "Sumber_Satelit": "N21",
+      "Tanggal": "2026-07-08",
+      "Provinsi_Final": "Sulawesi Utara",
+      "Kabupaten_Final": "Bitung",
       "pbph": null,
       "kph": null,
       "provinsi": null,
